@@ -4,7 +4,7 @@ set -eu
 cd "$(dirname "$0")/out"
 d=$1 title=$2
 for b in before after; do
-  magick $d-$b.png -crop 560x1000+940+0 +repage -fuzz 1% -fill '#c9d6e3' -draw 'color 0,999 floodfill' -trim +repage -bordercolor '#c9d6e3' -border 20 $d-$b-cards.png
+  magick $d-$b.png -crop 560x1250+940+0 +repage -fuzz 1% -fill '#c9d6e3' -draw 'color 0,1249 floodfill' -trim +repage -bordercolor '#c9d6e3' -border 20 $d-$b-cards.png
 done
 h=$(magick identify -format '%h\n' $d-before-cards.png $d-after-cards.png | sort -n | tail -1)
 for b in before after; do

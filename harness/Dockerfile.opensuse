@@ -1,8 +1,10 @@
-# openSUSE Tumbleweed, KDE Plasma-style: Breeze from kdeglobals, KDE apps.
+# openSUSE Tumbleweed, KDE Plasma-style: Breeze from kdeglobals, KDE apps, Chromium with a web app.
 FROM opensuse/tumbleweed
-RUN zypper -n install --no-recommends sway grim dbus-1 dbus-1-daemon Mesa-vulkan-device-select libvulkan_lvp libpipewire-0_3-0 libxkbcommon0 \
-    google-noto-sans-fonts google-noto-coloremoji-fonts google-noto-sans-arabic-fonts libnotify-tools glib2-tools python3 kf6-breeze-icons dolphin konsole \
- ; rc=$?; [ $rc = 0 ] || [ $rc = 107 ]; zypper clean -a
+# zypper exits 107 when only a package's script complained; anything else fails the build.
+RUN for try in 1 2 3; do ZYPP_PCK_PRELOAD=0 zypper -n install --no-recommends sway grim dbus-1 dbus-1-daemon Mesa-vulkan-device-select libvulkan_lvp \
+      libpipewire-0_3-0 libxkbcommon0 google-noto-sans-fonts google-noto-coloremoji-fonts google-noto-sans-arabic-fonts libnotify-tools glib2-tools \
+      python3 kf6-breeze-icons dolphin konsole chromium; rc=$?; { [ $rc = 0 ] || [ $rc = 107 ]; } && break; done \
+ && rpm -q sway dolphin chromium kf6-breeze-icons libvulkan_lvp && zypper clean -a
 COPY . /harness
-RUN sh /harness/fixtures.sh none && printf '[Icons]\nTheme=breeze\n' > /root/.config/kdeglobals
-ENV XDG_CURRENT_DESKTOP=KDE SCENARIO_ENV='{"kde": 1}'
+RUN sh /harness/fixtures.sh app chromium && printf '[Icons]\nTheme=breeze\n' > /root/.config/kdeglobals
+ENV XDG_CURRENT_DESKTOP=KDE SCENARIO_ENV='{"kde": 1, "browser": 1, "browser_app": "Chromium", "browser_desktop": "chromium-browser"}'
