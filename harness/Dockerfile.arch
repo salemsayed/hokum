@@ -1,0 +1,9 @@
+# Arch with Hyprland-style setup (Omarchy): Papirus-Dark in GTK's settings.ini, web apps from omarchy-launch-webapp.
+FROM archlinux:latest
+COPY assets/mirrorlist /etc/pacman.d/mirrorlist
+RUN pacman -Syu --noconfirm --needed --disable-download-timeout sway grim dbus vulkan-swrast libpipewire libxkbcommon noto-fonts noto-fonts-emoji libnotify glib2 python \
+    papirus-icon-theme chromium && pacman -Scc --noconfirm
+COPY . /harness
+RUN sh /harness/fixtures.sh omarchy chromium && mkdir -p /root/.config/gtk-3.0 && printf '[Settings]\ngtk-icon-theme-name=Papirus-Dark\n' > /root/.config/gtk-3.0/settings.ini
+ENV XDG_CURRENT_DESKTOP=Hyprland \
+    SCENARIO_ENV='{"browser": 1, "browser_app": "Chromium", "browser_desktop": "chromium"}'

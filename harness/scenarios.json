@@ -1,0 +1,99 @@
+[
+ {
+  "label": "notify-send from a script",
+  "cmd": [
+   "notify-send",
+   "-a",
+   "Backup",
+   "-i",
+   "drive-harddisk",
+   "Backup finished",
+   "412 files, 2.1 GB"
+  ]
+ },
+ {
+  "label": "Calculator (GNOME app, control)",
+  "needs": "calculator",
+  "app": "Calculator",
+  "summary": "Calculation done",
+  "body": "42",
+  "hints": {
+   "desktop-entry": "org.gnome.Calculator"
+  }
+ },
+ {
+  "label": "Dolphin (KDE, theme icon by name)",
+  "needs": "kde",
+  "app": "Dolphin",
+  "icon": "system-file-manager",
+  "summary": "Copying finished",
+  "body": "3 files copied to Documents",
+  "hints": {
+   "desktop-entry": "org.kde.dolphin"
+  }
+ },
+ {
+  "label": "Telegram (control)",
+  "needs": "telegram",
+  "app": "Telegram Desktop",
+  "summary": "Mona",
+  "body": "see you at 8",
+  "hints": {
+   "desktop-entry": "org.telegram.desktop"
+  }
+ },
+ {
+  "label": "Flatpak through the notification portal (xdg-desktop-portal-gtk forwards it)",
+  "app": "",
+  "summary": "Sync finished",
+  "body": "12 new messages",
+  "hints": {
+   "desktop-entry": "co.hyprlab.Hylki.Beta",
+   "urgency": 1
+  }
+ },
+ {
+  "label": "Flatpak named by its app ID",
+  "app": "co.hyprlab.Hylki.Beta",
+  "summary": "New mail from Noura",
+  "body": "Invoice #2041 attached"
+ },
+ {
+  "label": "Electron AppImage (desktop-entry doesn't match its launcher)",
+  "app": "bb Nightly",
+  "summary": "Evaluate hokum for task handling",
+  "body": "The right fix is in Hokum itself",
+  "hints": {
+   "desktop-entry": "bb-desktop",
+   "image-data": [
+    "/harness/assets/bb-64.rgba",
+    64,
+    64
+   ]
+  }
+ },
+ {
+  "label": "Browser: another site",
+  "needs": "browser",
+  "app": "{browser_app}",
+  "icon": "file:///harness/assets/chrome-logo.png",
+  "summary": "GitHub",
+  "body": "<a href=\"https://github.com/\">github.com</a>\n\nYour pull request was merged",
+  "hints": {
+   "desktop-entry": "{browser_desktop}",
+   "image-path": "/harness/assets/github-avatar.png"
+  }
+ },
+ {
+  "label": "Browser: WhatsApp web app",
+  "needs": "browser",
+  "app": "{browser_app}",
+  "icon": "file:///harness/assets/chrome-logo.png",
+  "summary": "Layla Hassan",
+  "body": "<a href=\"https://web.whatsapp.com/\">web.whatsapp.com</a>\n\nOn my way 🚗",
+  "hints": {
+   "desktop-entry": "{browser_desktop}",
+   "image-path": "/harness/assets/avatar.png"
+  }
+ }
+]

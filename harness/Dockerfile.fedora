@@ -1,0 +1,9 @@
+# Fedora, a stock GNOME desktop: no settings files, so Adwaita is GNOME's default.
+FROM fedora:latest
+RUN dnf -y install --setopt=install_weak_deps=False sway grim dbus-daemon dbus-tools mesa-vulkan-drivers vulkan-loader pipewire-libs libxkbcommon \
+    google-noto-sans-fonts google-noto-color-emoji-fonts google-noto-sans-arabic-fonts libnotify glib2 python3 adwaita-icon-theme gnome-calculator chromium \
+ && dnf clean all
+COPY . /harness
+RUN sh /harness/fixtures.sh app chromium-browser
+ENV XDG_CURRENT_DESKTOP=GNOME \
+    SCENARIO_ENV='{"browser": 1, "browser_app": "Chromium", "browser_desktop": "chromium-browser", "calculator": 1}'
