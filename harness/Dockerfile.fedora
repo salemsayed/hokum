@@ -7,3 +7,7 @@ COPY . /harness
 RUN sh /harness/fixtures.sh app chromium-browser
 ENV XDG_CURRENT_DESKTOP=GNOME \
     SCENARIO_ENV='{"browser": 1, "browser_app": "Chromium", "browser_desktop": "chromium-browser", "calculator": 1}'
+# Hokum needs layer-shell, so on Fedora it runs under sway (the Sway spin), with GTK's settings
+# from GSettings through the GTK portal.
+RUN dnf -y install --setopt=install_weak_deps=False xdg-desktop-portal xdg-desktop-portal-gtk dconf gsettings-desktop-schemas && dnf clean all \
+ && mkdir -p /root/.config/xdg-desktop-portal && printf '[preferred]\ndefault=gtk\n' > /root/.config/xdg-desktop-portal/portals.conf

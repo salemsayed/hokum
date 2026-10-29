@@ -8,3 +8,7 @@ COPY . /harness
 RUN sh /harness/fixtures.sh mint chromium
 ENV XDG_CURRENT_DESKTOP=X-Cinnamon \
     SCENARIO_ENV='{"browser": 1, "browser_app": "Chromium", "browser_desktop": "chromium"}'
+# Hokum needs layer-shell (Cinnamon has none), so here it runs under sway with GTK's settings
+# from GSettings through the GTK portal.
+RUN apt-get update && apt-get install -y --no-install-recommends xdg-desktop-portal xdg-desktop-portal-gtk dconf-service dconf-gsettings-backend gsettings-desktop-schemas && rm -rf /var/lib/apt/lists/* \
+ && mkdir -p /root/.config/xdg-desktop-portal && printf '[preferred]\ndefault=gtk\n' > /root/.config/xdg-desktop-portal/portals.conf
