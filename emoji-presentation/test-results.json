@@ -1,0 +1,44 @@
+{
+  "head-rune-tests": {
+    "passed": 2180,
+    "failed": 10,
+    "ignored": 12,
+    "targets": 141
+  },
+  "head-rune-pinned-tests": {
+    "passed": 1860,
+    "failed": 10,
+    "ignored": 12,
+    "targets": 123
+  },
+  "head-hokum-checks": {
+    "passed": 132,
+    "failed": 0,
+    "ignored": 0,
+    "targets": 1
+  },
+  "final-rune-doc-tests": {
+    "passed": 27,
+    "failed": 0,
+    "ignored": 48,
+    "targets": 4
+  },
+  "baseline-rune-dev-tests": {
+    "passed": 1372,
+    "failed": 8,
+    "ignored": 8,
+    "targets": 1
+  },
+  "baseline-rune-pinned-tests": {
+    "passed": 1129,
+    "failed": 8,
+    "ignored": 8,
+    "targets": 1
+  },
+  "baseline-rune-integration": {
+    "passed": 13,
+    "failed": 3,
+    "ignored": 0,
+    "targets": 3
+  }
+}

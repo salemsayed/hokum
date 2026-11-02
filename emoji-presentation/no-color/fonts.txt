@@ -1,0 +1,655 @@
+DejaVu Math TeX Gyre	/usr/share/fonts/TTF/DejaVuMathTeXGyre.ttf	False
+DejaVu Sans	/usr/share/fonts/TTF/DejaVuSans-Bold.ttf	False
+DejaVu Sans	/usr/share/fonts/TTF/DejaVuSans-BoldOblique.ttf	False
+DejaVu Sans	/usr/share/fonts/TTF/DejaVuSans-ExtraLight.ttf	False
+DejaVu Sans	/usr/share/fonts/TTF/DejaVuSans-Oblique.ttf	False
+DejaVu Sans	/usr/share/fonts/TTF/DejaVuSans.ttf	False
+DejaVu Sans	/usr/share/fonts/TTF/DejaVuSansCondensed-Bold.ttf	False
+DejaVu Sans	/usr/share/fonts/TTF/DejaVuSansCondensed-BoldOblique.ttf	False
+DejaVu Sans	/usr/share/fonts/TTF/DejaVuSansCondensed-Oblique.ttf	False
+DejaVu Sans	/usr/share/fonts/TTF/DejaVuSansCondensed.ttf	False
+DejaVu Sans Mono	/usr/share/fonts/TTF/DejaVuSansMono-Bold.ttf	False
+DejaVu Sans Mono	/usr/share/fonts/TTF/DejaVuSansMono-BoldOblique.ttf	False
+DejaVu Sans Mono	/usr/share/fonts/TTF/DejaVuSansMono-Oblique.ttf	False
+DejaVu Sans Mono	/usr/share/fonts/TTF/DejaVuSansMono.ttf	False
+DejaVu Serif	/usr/share/fonts/TTF/DejaVuSerif-Bold.ttf	False
+DejaVu Serif	/usr/share/fonts/TTF/DejaVuSerif-BoldItalic.ttf	False
+DejaVu Serif	/usr/share/fonts/TTF/DejaVuSerif-Italic.ttf	False
+DejaVu Serif	/usr/share/fonts/TTF/DejaVuSerif.ttf	False
+DejaVu Serif	/usr/share/fonts/TTF/DejaVuSerifCondensed-Bold.ttf	False
+DejaVu Serif	/usr/share/fonts/TTF/DejaVuSerifCondensed-BoldItalic.ttf	False
+DejaVu Serif	/usr/share/fonts/TTF/DejaVuSerifCondensed-Italic.ttf	False
+DejaVu Serif	/usr/share/fonts/TTF/DejaVuSerifCondensed.ttf	False
+Liberation Mono	/usr/share/fonts/liberation/LiberationMono-Bold.ttf	False
+Liberation Mono	/usr/share/fonts/liberation/LiberationMono-BoldItalic.ttf	False
+Liberation Mono	/usr/share/fonts/liberation/LiberationMono-Italic.ttf	False
+Liberation Mono	/usr/share/fonts/liberation/LiberationMono-Regular.ttf	False
+Liberation Sans	/usr/share/fonts/liberation/LiberationSans-Bold.ttf	False
+Liberation Sans	/usr/share/fonts/liberation/LiberationSans-BoldItalic.ttf	False
+Liberation Sans	/usr/share/fonts/liberation/LiberationSans-Italic.ttf	False
+Liberation Sans	/usr/share/fonts/liberation/LiberationSans-Regular.ttf	False
+Liberation Serif	/usr/share/fonts/liberation/LiberationSerif-Bold.ttf	False
+Liberation Serif	/usr/share/fonts/liberation/LiberationSerif-BoldItalic.ttf	False
+Liberation Serif	/usr/share/fonts/liberation/LiberationSerif-Italic.ttf	False
+Liberation Serif	/usr/share/fonts/liberation/LiberationSerif-Regular.ttf	False
+Noto Fangsong KSS Rotated	/usr/share/fonts/noto/NotoFangsongKSSRotated-Regular.ttf	False
+Noto Fangsong KSS Vertical	/usr/share/fonts/noto/NotoFangsongKSSVertical-Regular.ttf	False
+Noto Kufi Arabic	/usr/share/fonts/noto/NotoKufiArabic-Black.ttf	False
+Noto Kufi Arabic	/usr/share/fonts/noto/NotoKufiArabic-Bold.ttf	False
+Noto Kufi Arabic	/usr/share/fonts/noto/NotoKufiArabic-Light.ttf	False
+Noto Kufi Arabic	/usr/share/fonts/noto/NotoKufiArabic-Medium.ttf	False
+Noto Kufi Arabic	/usr/share/fonts/noto/NotoKufiArabic-Regular.ttf	False
+Noto Kufi Arabic	/usr/share/fonts/noto/NotoKufiArabic-Thin.ttf	False
+Noto Music	/usr/share/fonts/noto/NotoMusic-Regular.ttf	False
+Noto Naskh Arabic	/usr/share/fonts/noto/NotoNaskhArabic-Bold.ttf	False
+Noto Naskh Arabic	/usr/share/fonts/noto/NotoNaskhArabic-Medium.ttf	False
+Noto Naskh Arabic	/usr/share/fonts/noto/NotoNaskhArabic-Regular.ttf	False
+Noto Naskh Arabic UI	/usr/share/fonts/noto/NotoNaskhArabicUI-Bold.ttf	False
+Noto Naskh Arabic UI	/usr/share/fonts/noto/NotoNaskhArabicUI-Medium.ttf	False
+Noto Naskh Arabic UI	/usr/share/fonts/noto/NotoNaskhArabicUI-Regular.ttf	False
+Noto Nastaliq Urdu	/usr/share/fonts/noto/NotoNastaliqUrdu-Bold.ttf	False
+Noto Nastaliq Urdu	/usr/share/fonts/noto/NotoNastaliqUrdu-Regular.ttf	False
+Noto Rashi Hebrew	/usr/share/fonts/noto/NotoRashiHebrew-Black.ttf	False
+Noto Rashi Hebrew	/usr/share/fonts/noto/NotoRashiHebrew-Bold.ttf	False
+Noto Rashi Hebrew	/usr/share/fonts/noto/NotoRashiHebrew-Light.ttf	False
+Noto Rashi Hebrew	/usr/share/fonts/noto/NotoRashiHebrew-Medium.ttf	False
+Noto Rashi Hebrew	/usr/share/fonts/noto/NotoRashiHebrew-Regular.ttf	False
+Noto Rashi Hebrew	/usr/share/fonts/noto/NotoRashiHebrew-Thin.ttf	False
+Noto Sans	/usr/share/fonts/noto/NotoSans-Black.ttf	False
+Noto Sans	/usr/share/fonts/noto/NotoSans-BlackItalic.ttf	False
+Noto Sans	/usr/share/fonts/noto/NotoSans-Bold.ttf	False
+Noto Sans	/usr/share/fonts/noto/NotoSans-BoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/noto/NotoSans-Italic.ttf	False
+Noto Sans	/usr/share/fonts/noto/NotoSans-Light.ttf	False
+Noto Sans	/usr/share/fonts/noto/NotoSans-LightItalic.ttf	False
+Noto Sans	/usr/share/fonts/noto/NotoSans-Medium.ttf	False
+Noto Sans	/usr/share/fonts/noto/NotoSans-MediumItalic.ttf	False
+Noto Sans	/usr/share/fonts/noto/NotoSans-Regular.ttf	False
+Noto Sans	/usr/share/fonts/noto/NotoSans-Thin.ttf	False
+Noto Sans	/usr/share/fonts/noto/NotoSans-ThinItalic.ttf	False
+Noto Sans Adlam	/usr/share/fonts/noto/NotoSansAdlam-Bold.ttf	False
+Noto Sans Adlam	/usr/share/fonts/noto/NotoSansAdlam-Regular.ttf	False
+Noto Sans Adlam Unjoined	/usr/share/fonts/noto/NotoSansAdlamUnjoined-Bold.ttf	False
+Noto Sans Adlam Unjoined	/usr/share/fonts/noto/NotoSansAdlamUnjoined-Regular.ttf	False
+Noto Sans Anatolian Hieroglyphs	/usr/share/fonts/noto/NotoSansAnatolianHieroglyphs-Regular.ttf	False
+Noto Sans Arabic	/usr/share/fonts/noto/NotoSansArabic-Black.ttf	False
+Noto Sans Arabic	/usr/share/fonts/noto/NotoSansArabic-Bold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/noto/NotoSansArabic-Light.ttf	False
+Noto Sans Arabic	/usr/share/fonts/noto/NotoSansArabic-Medium.ttf	False
+Noto Sans Arabic	/usr/share/fonts/noto/NotoSansArabic-Regular.ttf	False
+Noto Sans Arabic	/usr/share/fonts/noto/NotoSansArabic-Thin.ttf	False
+Noto Sans Arabic UI	/usr/share/fonts/noto/NotoSansArabicUI-Black.ttf	False
+Noto Sans Arabic UI	/usr/share/fonts/noto/NotoSansArabicUI-Bold.ttf	False
+Noto Sans Arabic UI	/usr/share/fonts/noto/NotoSansArabicUI-Light.ttf	False
+Noto Sans Arabic UI	/usr/share/fonts/noto/NotoSansArabicUI-Medium.ttf	False
+Noto Sans Arabic UI	/usr/share/fonts/noto/NotoSansArabicUI-Regular.ttf	False
+Noto Sans Arabic UI	/usr/share/fonts/noto/NotoSansArabicUI-Thin.ttf	False
+Noto Sans Armenian	/usr/share/fonts/noto/NotoSansArmenian-Black.ttf	False
+Noto Sans Armenian	/usr/share/fonts/noto/NotoSansArmenian-Bold.ttf	False
+Noto Sans Armenian	/usr/share/fonts/noto/NotoSansArmenian-Light.ttf	False
+Noto Sans Armenian	/usr/share/fonts/noto/NotoSansArmenian-Medium.ttf	False
+Noto Sans Armenian	/usr/share/fonts/noto/NotoSansArmenian-Regular.ttf	False
+Noto Sans Armenian	/usr/share/fonts/noto/NotoSansArmenian-Thin.ttf	False
+Noto Sans Avestan	/usr/share/fonts/noto/NotoSansAvestan-Regular.ttf	False
+Noto Sans Balinese	/usr/share/fonts/noto/NotoSansBalinese-Bold.ttf	False
+Noto Sans Balinese	/usr/share/fonts/noto/NotoSansBalinese-Medium.ttf	False
+Noto Sans Balinese	/usr/share/fonts/noto/NotoSansBalinese-Regular.ttf	False
+Noto Sans Bamum	/usr/share/fonts/noto/NotoSansBamum-Bold.ttf	False
+Noto Sans Bamum	/usr/share/fonts/noto/NotoSansBamum-Medium.ttf	False
+Noto Sans Bamum	/usr/share/fonts/noto/NotoSansBamum-Regular.ttf	False
+Noto Sans Bassa Vah	/usr/share/fonts/noto/NotoSansBassaVah-Bold.ttf	False
+Noto Sans Bassa Vah	/usr/share/fonts/noto/NotoSansBassaVah-Medium.ttf	False
+Noto Sans Bassa Vah	/usr/share/fonts/noto/NotoSansBassaVah-Regular.ttf	False
+Noto Sans Batak	/usr/share/fonts/noto/NotoSansBatak-Regular.ttf	False
+Noto Sans Bengali	/usr/share/fonts/noto/NotoSansBengali-Black.ttf	False
+Noto Sans Bengali	/usr/share/fonts/noto/NotoSansBengali-Bold.ttf	False
+Noto Sans Bengali	/usr/share/fonts/noto/NotoSansBengali-Light.ttf	False
+Noto Sans Bengali	/usr/share/fonts/noto/NotoSansBengali-Medium.ttf	False
+Noto Sans Bengali	/usr/share/fonts/noto/NotoSansBengali-Regular.ttf	False
+Noto Sans Bengali	/usr/share/fonts/noto/NotoSansBengali-Thin.ttf	False
+Noto Sans Bengali UI	/usr/share/fonts/noto/NotoSansBengaliUI-Black.ttf	False
+Noto Sans Bengali UI	/usr/share/fonts/noto/NotoSansBengaliUI-Bold.ttf	False
+Noto Sans Bengali UI	/usr/share/fonts/noto/NotoSansBengaliUI-Light.ttf	False
+Noto Sans Bengali UI	/usr/share/fonts/noto/NotoSansBengaliUI-Medium.ttf	False
+Noto Sans Bengali UI	/usr/share/fonts/noto/NotoSansBengaliUI-Regular.ttf	False
+Noto Sans Bengali UI	/usr/share/fonts/noto/NotoSansBengaliUI-Thin.ttf	False
+Noto Sans Bhaiksuki	/usr/share/fonts/noto/NotoSansBhaiksuki-Regular.ttf	False
+Noto Sans Brahmi	/usr/share/fonts/noto/NotoSansBrahmi-Regular.ttf	False
+Noto Sans Buginese	/usr/share/fonts/noto/NotoSansBuginese-Regular.ttf	False
+Noto Sans Buhid	/usr/share/fonts/noto/NotoSansBuhid-Regular.ttf	False
+Noto Sans Canadian Aboriginal	/usr/share/fonts/noto/NotoSansCanadianAboriginal-Black.ttf	False
+Noto Sans Canadian Aboriginal	/usr/share/fonts/noto/NotoSansCanadianAboriginal-Bold.ttf	False
+Noto Sans Canadian Aboriginal	/usr/share/fonts/noto/NotoSansCanadianAboriginal-Light.ttf	False
+Noto Sans Canadian Aboriginal	/usr/share/fonts/noto/NotoSansCanadianAboriginal-Medium.ttf	False
+Noto Sans Canadian Aboriginal	/usr/share/fonts/noto/NotoSansCanadianAboriginal-Regular.ttf	False
+Noto Sans Canadian Aboriginal	/usr/share/fonts/noto/NotoSansCanadianAboriginal-Thin.ttf	False
+Noto Sans Carian	/usr/share/fonts/noto/NotoSansCarian-Regular.ttf	False
+Noto Sans Caucasian Albanian	/usr/share/fonts/noto/NotoSansCaucasianAlbanian-Regular.ttf	False
+Noto Sans Chakma	/usr/share/fonts/noto/NotoSansChakma-Regular.ttf	False
+Noto Sans Cham	/usr/share/fonts/noto/NotoSansCham-Black.ttf	False
+Noto Sans Cham	/usr/share/fonts/noto/NotoSansCham-Bold.ttf	False
+Noto Sans Cham	/usr/share/fonts/noto/NotoSansCham-Light.ttf	False
+Noto Sans Cham	/usr/share/fonts/noto/NotoSansCham-Medium.ttf	False
+Noto Sans Cham	/usr/share/fonts/noto/NotoSansCham-Regular.ttf	False
+Noto Sans Cham	/usr/share/fonts/noto/NotoSansCham-Thin.ttf	False
+Noto Sans Cherokee	/usr/share/fonts/noto/NotoSansCherokee-Black.ttf	False
+Noto Sans Cherokee	/usr/share/fonts/noto/NotoSansCherokee-Bold.ttf	False
+Noto Sans Cherokee	/usr/share/fonts/noto/NotoSansCherokee-Light.ttf	False
+Noto Sans Cherokee	/usr/share/fonts/noto/NotoSansCherokee-Medium.ttf	False
+Noto Sans Cherokee	/usr/share/fonts/noto/NotoSansCherokee-Regular.ttf	False
+Noto Sans Cherokee	/usr/share/fonts/noto/NotoSansCherokee-Thin.ttf	False
+Noto Sans Chorasmian	/usr/share/fonts/noto/NotoSansChorasmian-Regular.ttf	False
+Noto Sans Coptic	/usr/share/fonts/noto/NotoSansCoptic-Regular.ttf	False
+Noto Sans Cuneiform	/usr/share/fonts/noto/NotoSansCuneiform-Regular.ttf	False
+Noto Sans Cypriot	/usr/share/fonts/noto/NotoSansCypriot-Regular.ttf	False
+Noto Sans Cypro Minoan	/usr/share/fonts/noto/NotoSansCyproMinoan-Regular.ttf	False
+Noto Sans Deseret	/usr/share/fonts/noto/NotoSansDeseret-Regular.ttf	False
+Noto Sans Devanagari	/usr/share/fonts/noto/NotoSansDevanagari-Black.ttf	False
+Noto Sans Devanagari	/usr/share/fonts/noto/NotoSansDevanagari-Bold.ttf	False
+Noto Sans Devanagari	/usr/share/fonts/noto/NotoSansDevanagari-Light.ttf	False
+Noto Sans Devanagari	/usr/share/fonts/noto/NotoSansDevanagari-Medium.ttf	False
+Noto Sans Devanagari	/usr/share/fonts/noto/NotoSansDevanagari-Regular.ttf	False
+Noto Sans Devanagari	/usr/share/fonts/noto/NotoSansDevanagari-Thin.ttf	False
+Noto Sans Devanagari UI	/usr/share/fonts/noto/NotoSansDevanagariUI-Black.ttf	False
+Noto Sans Devanagari UI	/usr/share/fonts/noto/NotoSansDevanagariUI-Bold.ttf	False
+Noto Sans Devanagari UI	/usr/share/fonts/noto/NotoSansDevanagariUI-Light.ttf	False
+Noto Sans Devanagari UI	/usr/share/fonts/noto/NotoSansDevanagariUI-Medium.ttf	False
+Noto Sans Devanagari UI	/usr/share/fonts/noto/NotoSansDevanagariUI-Regular.ttf	False
+Noto Sans Devanagari UI	/usr/share/fonts/noto/NotoSansDevanagariUI-Thin.ttf	False
+Noto Sans Duployan	/usr/share/fonts/noto/NotoSansDuployan-Bold.ttf	False
+Noto Sans Duployan	/usr/share/fonts/noto/NotoSansDuployan-Regular.ttf	False
+Noto Sans Egyptian Hieroglyphs	/usr/share/fonts/noto/NotoSansEgyptianHieroglyphs-Regular.ttf	False
+Noto Sans Elbasan	/usr/share/fonts/noto/NotoSansElbasan-Regular.ttf	False
+Noto Sans Elymaic	/usr/share/fonts/noto/NotoSansElymaic-Regular.ttf	False
+Noto Sans Ethiopic	/usr/share/fonts/noto/NotoSansEthiopic-Black.ttf	False
+Noto Sans Ethiopic	/usr/share/fonts/noto/NotoSansEthiopic-Bold.ttf	False
+Noto Sans Ethiopic	/usr/share/fonts/noto/NotoSansEthiopic-Light.ttf	False
+Noto Sans Ethiopic	/usr/share/fonts/noto/NotoSansEthiopic-Medium.ttf	False
+Noto Sans Ethiopic	/usr/share/fonts/noto/NotoSansEthiopic-Regular.ttf	False
+Noto Sans Ethiopic	/usr/share/fonts/noto/NotoSansEthiopic-Thin.ttf	False
+Noto Sans Georgian	/usr/share/fonts/noto/NotoSansGeorgian-Black.ttf	False
+Noto Sans Georgian	/usr/share/fonts/noto/NotoSansGeorgian-Bold.ttf	False
+Noto Sans Georgian	/usr/share/fonts/noto/NotoSansGeorgian-Light.ttf	False
+Noto Sans Georgian	/usr/share/fonts/noto/NotoSansGeorgian-Medium.ttf	False
+Noto Sans Georgian	/usr/share/fonts/noto/NotoSansGeorgian-Regular.ttf	False
+Noto Sans Georgian	/usr/share/fonts/noto/NotoSansGeorgian-Thin.ttf	False
+Noto Sans Glagolitic	/usr/share/fonts/noto/NotoSansGlagolitic-Regular.ttf	False
+Noto Sans Gothic	/usr/share/fonts/noto/NotoSansGothic-Regular.ttf	False
+Noto Sans Grantha	/usr/share/fonts/noto/NotoSansGrantha-Regular.ttf	False
+Noto Sans Gujarati	/usr/share/fonts/noto/NotoSansGujarati-Black.ttf	False
+Noto Sans Gujarati	/usr/share/fonts/noto/NotoSansGujarati-Bold.ttf	False
+Noto Sans Gujarati	/usr/share/fonts/noto/NotoSansGujarati-Light.ttf	False
+Noto Sans Gujarati	/usr/share/fonts/noto/NotoSansGujarati-Medium.ttf	False
+Noto Sans Gujarati	/usr/share/fonts/noto/NotoSansGujarati-Regular.ttf	False
+Noto Sans Gujarati	/usr/share/fonts/noto/NotoSansGujarati-Thin.ttf	False
+Noto Sans Gujarati UI	/usr/share/fonts/noto/NotoSansGujaratiUI-Black.ttf	False
+Noto Sans Gujarati UI	/usr/share/fonts/noto/NotoSansGujaratiUI-Bold.ttf	False
+Noto Sans Gujarati UI	/usr/share/fonts/noto/NotoSansGujaratiUI-Light.ttf	False
+Noto Sans Gujarati UI	/usr/share/fonts/noto/NotoSansGujaratiUI-Medium.ttf	False
+Noto Sans Gujarati UI	/usr/share/fonts/noto/NotoSansGujaratiUI-Regular.ttf	False
+Noto Sans Gujarati UI	/usr/share/fonts/noto/NotoSansGujaratiUI-Thin.ttf	False
+Noto Sans Gunjala Gondi	/usr/share/fonts/noto/NotoSansGunjalaGondi-Bold.ttf	False
+Noto Sans Gunjala Gondi	/usr/share/fonts/noto/NotoSansGunjalaGondi-Medium.ttf	False
+Noto Sans Gunjala Gondi	/usr/share/fonts/noto/NotoSansGunjalaGondi-Regular.ttf	False
+Noto Sans Gurmukhi	/usr/share/fonts/noto/NotoSansGurmukhi-Black.ttf	False
+Noto Sans Gurmukhi	/usr/share/fonts/noto/NotoSansGurmukhi-Bold.ttf	False
+Noto Sans Gurmukhi	/usr/share/fonts/noto/NotoSansGurmukhi-Light.ttf	False
+Noto Sans Gurmukhi	/usr/share/fonts/noto/NotoSansGurmukhi-Medium.ttf	False
+Noto Sans Gurmukhi	/usr/share/fonts/noto/NotoSansGurmukhi-Regular.ttf	False
+Noto Sans Gurmukhi	/usr/share/fonts/noto/NotoSansGurmukhi-Thin.ttf	False
+Noto Sans Gurmukhi UI	/usr/share/fonts/noto/NotoSansGurmukhiUI-Black.ttf	False
+Noto Sans Gurmukhi UI	/usr/share/fonts/noto/NotoSansGurmukhiUI-Bold.ttf	False
+Noto Sans Gurmukhi UI	/usr/share/fonts/noto/NotoSansGurmukhiUI-Light.ttf	False
+Noto Sans Gurmukhi UI	/usr/share/fonts/noto/NotoSansGurmukhiUI-Medium.ttf	False
+Noto Sans Gurmukhi UI	/usr/share/fonts/noto/NotoSansGurmukhiUI-Regular.ttf	False
+Noto Sans Gurmukhi UI	/usr/share/fonts/noto/NotoSansGurmukhiUI-Thin.ttf	False
+Noto Sans Hanifi Rohingya	/usr/share/fonts/noto/NotoSansHanifiRohingya-Bold.ttf	False
+Noto Sans Hanifi Rohingya	/usr/share/fonts/noto/NotoSansHanifiRohingya-Medium.ttf	False
+Noto Sans Hanifi Rohingya	/usr/share/fonts/noto/NotoSansHanifiRohingya-Regular.ttf	False
+Noto Sans Hanunoo	/usr/share/fonts/noto/NotoSansHanunoo-Regular.ttf	False
+Noto Sans Hatran	/usr/share/fonts/noto/NotoSansHatran-Regular.ttf	False
+Noto Sans Hebrew	/usr/share/fonts/noto/NotoSansHebrew-Black.ttf	False
+Noto Sans Hebrew	/usr/share/fonts/noto/NotoSansHebrew-Bold.ttf	False
+Noto Sans Hebrew	/usr/share/fonts/noto/NotoSansHebrew-Light.ttf	False
+Noto Sans Hebrew	/usr/share/fonts/noto/NotoSansHebrew-Medium.ttf	False
+Noto Sans Hebrew	/usr/share/fonts/noto/NotoSansHebrew-Regular.ttf	False
+Noto Sans Hebrew	/usr/share/fonts/noto/NotoSansHebrew-Thin.ttf	False
+Noto Sans Imperial Aramaic	/usr/share/fonts/noto/NotoSansImperialAramaic-Regular.ttf	False
+Noto Sans Indic Siyaq Numbers	/usr/share/fonts/noto/NotoSansIndicSiyaqNumbers-Regular.ttf	False
+Noto Sans Inscriptional Pahlavi	/usr/share/fonts/noto/NotoSansInscriptionalPahlavi-Regular.ttf	False
+Noto Sans Inscriptional Parthian	/usr/share/fonts/noto/NotoSansInscriptionalParthian-Regular.ttf	False
+Noto Sans Javanese	/usr/share/fonts/noto/NotoSansJavanese-Bold.ttf	False
+Noto Sans Javanese	/usr/share/fonts/noto/NotoSansJavanese-Regular.ttf	False
+Noto Sans Kaithi	/usr/share/fonts/noto/NotoSansKaithi-Regular.ttf	False
+Noto Sans Kannada	/usr/share/fonts/noto/NotoSansKannada-Black.ttf	False
+Noto Sans Kannada	/usr/share/fonts/noto/NotoSansKannada-Bold.ttf	False
+Noto Sans Kannada	/usr/share/fonts/noto/NotoSansKannada-Light.ttf	False
+Noto Sans Kannada	/usr/share/fonts/noto/NotoSansKannada-Medium.ttf	False
+Noto Sans Kannada	/usr/share/fonts/noto/NotoSansKannada-Regular.ttf	False
+Noto Sans Kannada	/usr/share/fonts/noto/NotoSansKannada-Thin.ttf	False
+Noto Sans Kannada UI	/usr/share/fonts/noto/NotoSansKannadaUI-Black.ttf	False
+Noto Sans Kannada UI	/usr/share/fonts/noto/NotoSansKannadaUI-Bold.ttf	False
+Noto Sans Kannada UI	/usr/share/fonts/noto/NotoSansKannadaUI-Light.ttf	False
+Noto Sans Kannada UI	/usr/share/fonts/noto/NotoSansKannadaUI-Medium.ttf	False
+Noto Sans Kannada UI	/usr/share/fonts/noto/NotoSansKannadaUI-Regular.ttf	False
+Noto Sans Kannada UI	/usr/share/fonts/noto/NotoSansKannadaUI-Thin.ttf	False
+Noto Sans Kawi	/usr/share/fonts/noto/NotoSansKawi-Bold.ttf	False
+Noto Sans Kawi	/usr/share/fonts/noto/NotoSansKawi-Regular.ttf	False
+Noto Sans Kayah Li	/usr/share/fonts/noto/NotoSansKayahLi-Bold.ttf	False
+Noto Sans Kayah Li	/usr/share/fonts/noto/NotoSansKayahLi-Medium.ttf	False
+Noto Sans Kayah Li	/usr/share/fonts/noto/NotoSansKayahLi-Regular.ttf	False
+Noto Sans Kharoshthi	/usr/share/fonts/noto/NotoSansKharoshthi-Regular.ttf	False
+Noto Sans Khmer	/usr/share/fonts/noto/NotoSansKhmer-Black.ttf	False
+Noto Sans Khmer	/usr/share/fonts/noto/NotoSansKhmer-Bold.ttf	False
+Noto Sans Khmer	/usr/share/fonts/noto/NotoSansKhmer-Light.ttf	False
+Noto Sans Khmer	/usr/share/fonts/noto/NotoSansKhmer-Medium.ttf	False
+Noto Sans Khmer	/usr/share/fonts/noto/NotoSansKhmer-Regular.ttf	False
+Noto Sans Khmer	/usr/share/fonts/noto/NotoSansKhmer-Thin.ttf	False
+Noto Sans Khojki	/usr/share/fonts/noto/NotoSansKhojki-Regular.ttf	False
+Noto Sans Khudawadi	/usr/share/fonts/noto/NotoSansKhudawadi-Regular.ttf	False
+Noto Sans Lao	/usr/share/fonts/noto/NotoSansLao-Black.ttf	False
+Noto Sans Lao	/usr/share/fonts/noto/NotoSansLao-Bold.ttf	False
+Noto Sans Lao	/usr/share/fonts/noto/NotoSansLao-Light.ttf	False
+Noto Sans Lao	/usr/share/fonts/noto/NotoSansLao-Medium.ttf	False
+Noto Sans Lao	/usr/share/fonts/noto/NotoSansLao-Regular.ttf	False
+Noto Sans Lao	/usr/share/fonts/noto/NotoSansLao-Thin.ttf	False
+Noto Sans Lao Looped	/usr/share/fonts/noto/NotoSansLaoLooped-Black.ttf	False
+Noto Sans Lao Looped	/usr/share/fonts/noto/NotoSansLaoLooped-Bold.ttf	False
+Noto Sans Lao Looped	/usr/share/fonts/noto/NotoSansLaoLooped-Light.ttf	False
+Noto Sans Lao Looped	/usr/share/fonts/noto/NotoSansLaoLooped-Medium.ttf	False
+Noto Sans Lao Looped	/usr/share/fonts/noto/NotoSansLaoLooped-Regular.ttf	False
+Noto Sans Lao Looped	/usr/share/fonts/noto/NotoSansLaoLooped-Thin.ttf	False
+Noto Sans Lepcha	/usr/share/fonts/noto/NotoSansLepcha-Regular.ttf	False
+Noto Sans Limbu	/usr/share/fonts/noto/NotoSansLimbu-Regular.ttf	False
+Noto Sans Linear A	/usr/share/fonts/noto/NotoSansLinearA-Regular.ttf	False
+Noto Sans Linear B	/usr/share/fonts/noto/NotoSansLinearB-Regular.ttf	False
+Noto Sans Lisu	/usr/share/fonts/noto/NotoSansLisu-Bold.ttf	False
+Noto Sans Lisu	/usr/share/fonts/noto/NotoSansLisu-Medium.ttf	False
+Noto Sans Lisu	/usr/share/fonts/noto/NotoSansLisu-Regular.ttf	False
+Noto Sans Lycian	/usr/share/fonts/noto/NotoSansLycian-Regular.ttf	False
+Noto Sans Lydian	/usr/share/fonts/noto/NotoSansLydian-Regular.ttf	False
+Noto Sans Mahajani	/usr/share/fonts/noto/NotoSansMahajani-Regular.ttf	False
+Noto Sans Malayalam	/usr/share/fonts/noto/NotoSansMalayalam-Black.ttf	False
+Noto Sans Malayalam	/usr/share/fonts/noto/NotoSansMalayalam-Bold.ttf	False
+Noto Sans Malayalam	/usr/share/fonts/noto/NotoSansMalayalam-Light.ttf	False
+Noto Sans Malayalam	/usr/share/fonts/noto/NotoSansMalayalam-Medium.ttf	False
+Noto Sans Malayalam	/usr/share/fonts/noto/NotoSansMalayalam-Regular.ttf	False
+Noto Sans Malayalam	/usr/share/fonts/noto/NotoSansMalayalam-Thin.ttf	False
+Noto Sans Malayalam UI	/usr/share/fonts/noto/NotoSansMalayalamUI-Black.ttf	False
+Noto Sans Malayalam UI	/usr/share/fonts/noto/NotoSansMalayalamUI-Bold.ttf	False
+Noto Sans Malayalam UI	/usr/share/fonts/noto/NotoSansMalayalamUI-Light.ttf	False
+Noto Sans Malayalam UI	/usr/share/fonts/noto/NotoSansMalayalamUI-Medium.ttf	False
+Noto Sans Malayalam UI	/usr/share/fonts/noto/NotoSansMalayalamUI-Regular.ttf	False
+Noto Sans Malayalam UI	/usr/share/fonts/noto/NotoSansMalayalamUI-Thin.ttf	False
+Noto Sans Mandaic	/usr/share/fonts/noto/NotoSansMandaic-Regular.ttf	False
+Noto Sans Manichaean	/usr/share/fonts/noto/NotoSansManichaean-Regular.ttf	False
+Noto Sans Marchen	/usr/share/fonts/noto/NotoSansMarchen-Regular.ttf	False
+Noto Sans Masaram Gondi	/usr/share/fonts/noto/NotoSansMasaramGondi-Regular.ttf	False
+Noto Sans Math	/usr/share/fonts/noto/NotoSansMath-Regular.ttf	False
+Noto Sans Mayan Numerals	/usr/share/fonts/noto/NotoSansMayanNumerals-Regular.ttf	False
+Noto Sans Medefaidrin	/usr/share/fonts/noto/NotoSansMedefaidrin-Bold.ttf	False
+Noto Sans Medefaidrin	/usr/share/fonts/noto/NotoSansMedefaidrin-Medium.ttf	False
+Noto Sans Medefaidrin	/usr/share/fonts/noto/NotoSansMedefaidrin-Regular.ttf	False
+Noto Sans Meetei Mayek	/usr/share/fonts/noto/NotoSansMeeteiMayek-Black.ttf	False
+Noto Sans Meetei Mayek	/usr/share/fonts/noto/NotoSansMeeteiMayek-Bold.ttf	False
+Noto Sans Meetei Mayek	/usr/share/fonts/noto/NotoSansMeeteiMayek-Light.ttf	False
+Noto Sans Meetei Mayek	/usr/share/fonts/noto/NotoSansMeeteiMayek-Medium.ttf	False
+Noto Sans Meetei Mayek	/usr/share/fonts/noto/NotoSansMeeteiMayek-Regular.ttf	False
+Noto Sans Meetei Mayek	/usr/share/fonts/noto/NotoSansMeeteiMayek-Thin.ttf	False
+Noto Sans Mende Kikakui	/usr/share/fonts/noto/NotoSansMendeKikakui-Regular.ttf	False
+Noto Sans Meroitic	/usr/share/fonts/noto/NotoSansMeroitic-Regular.ttf	False
+Noto Sans Miao	/usr/share/fonts/noto/NotoSansMiao-Regular.ttf	False
+Noto Sans Modi	/usr/share/fonts/noto/NotoSansModi-Regular.ttf	False
+Noto Sans Mongolian	/usr/share/fonts/noto/NotoSansMongolian-Regular.ttf	False
+Noto Sans Mono	/usr/share/fonts/noto/NotoSansMono-Black.ttf	False
+Noto Sans Mono	/usr/share/fonts/noto/NotoSansMono-Bold.ttf	False
+Noto Sans Mono	/usr/share/fonts/noto/NotoSansMono-Light.ttf	False
+Noto Sans Mono	/usr/share/fonts/noto/NotoSansMono-Medium.ttf	False
+Noto Sans Mono	/usr/share/fonts/noto/NotoSansMono-Regular.ttf	False
+Noto Sans Mono	/usr/share/fonts/noto/NotoSansMono-Thin.ttf	False
+Noto Sans Mro	/usr/share/fonts/noto/NotoSansMro-Regular.ttf	False
+Noto Sans Multani	/usr/share/fonts/noto/NotoSansMultani-Regular.ttf	False
+Noto Sans Myanmar	/usr/share/fonts/noto/NotoSansMyanmar-Black.ttf	False
+Noto Sans Myanmar	/usr/share/fonts/noto/NotoSansMyanmar-Bold.ttf	False
+Noto Sans Myanmar	/usr/share/fonts/noto/NotoSansMyanmar-Light.ttf	False
+Noto Sans Myanmar	/usr/share/fonts/noto/NotoSansMyanmar-Medium.ttf	False
+Noto Sans Myanmar	/usr/share/fonts/noto/NotoSansMyanmar-Regular.ttf	False
+Noto Sans Myanmar	/usr/share/fonts/noto/NotoSansMyanmar-Thin.ttf	False
+Noto Sans NKo	/usr/share/fonts/noto/NotoSansNKo-Regular.ttf	False
+Noto Sans NKo Unjoined	/usr/share/fonts/noto/NotoSansNKoUnjoined-Bold.ttf	False
+Noto Sans NKo Unjoined	/usr/share/fonts/noto/NotoSansNKoUnjoined-Regular.ttf	False
+Noto Sans Nabataean	/usr/share/fonts/noto/NotoSansNabataean-Regular.ttf	False
+Noto Sans Nag Mundari	/usr/share/fonts/noto/NotoSansNagMundari-Bold.ttf	False
+Noto Sans Nag Mundari	/usr/share/fonts/noto/NotoSansNagMundari-Regular.ttf	False
+Noto Sans Nandinagari	/usr/share/fonts/noto/NotoSansNandinagari-Regular.ttf	False
+Noto Sans New Tai Lue	/usr/share/fonts/noto/NotoSansNewTaiLue-Bold.ttf	False
+Noto Sans New Tai Lue	/usr/share/fonts/noto/NotoSansNewTaiLue-Medium.ttf	False
+Noto Sans New Tai Lue	/usr/share/fonts/noto/NotoSansNewTaiLue-Regular.ttf	False
+Noto Sans Newa	/usr/share/fonts/noto/NotoSansNewa-Regular.ttf	False
+Noto Sans Nushu	/usr/share/fonts/noto/NotoSansNushu-Regular.ttf	False
+Noto Sans Ogham	/usr/share/fonts/noto/NotoSansOgham-Regular.ttf	False
+Noto Sans Ol Chiki	/usr/share/fonts/noto/NotoSansOlChiki-Bold.ttf	False
+Noto Sans Ol Chiki	/usr/share/fonts/noto/NotoSansOlChiki-Medium.ttf	False
+Noto Sans Ol Chiki	/usr/share/fonts/noto/NotoSansOlChiki-Regular.ttf	False
+Noto Sans Old Hungarian	/usr/share/fonts/noto/NotoSansOldHungarian-Regular.ttf	False
+Noto Sans Old Italic	/usr/share/fonts/noto/NotoSansOldItalic-Regular.ttf	False
+Noto Sans Old North Arabian	/usr/share/fonts/noto/NotoSansOldNorthArabian-Regular.ttf	False
+Noto Sans Old Permic	/usr/share/fonts/noto/NotoSansOldPermic-Regular.ttf	False
+Noto Sans Old Persian	/usr/share/fonts/noto/NotoSansOldPersian-Regular.ttf	False
+Noto Sans Old Sogdian	/usr/share/fonts/noto/NotoSansOldSogdian-Regular.ttf	False
+Noto Sans Old South Arabian	/usr/share/fonts/noto/NotoSansOldSouthArabian-Regular.ttf	False
+Noto Sans Old Turkic	/usr/share/fonts/noto/NotoSansOldTurkic-Regular.ttf	False
+Noto Sans Oriya	/usr/share/fonts/noto/NotoSansOriya-Black.ttf	False
+Noto Sans Oriya	/usr/share/fonts/noto/NotoSansOriya-Bold.ttf	False
+Noto Sans Oriya	/usr/share/fonts/noto/NotoSansOriya-Regular.ttf	False
+Noto Sans Oriya	/usr/share/fonts/noto/NotoSansOriya-Thin.ttf	False
+Noto Sans Osage	/usr/share/fonts/noto/NotoSansOsage-Regular.ttf	False
+Noto Sans Osmanya	/usr/share/fonts/noto/NotoSansOsmanya-Regular.ttf	False
+Noto Sans Pahawh Hmong	/usr/share/fonts/noto/NotoSansPahawhHmong-Regular.ttf	False
+Noto Sans Palmyrene	/usr/share/fonts/noto/NotoSansPalmyrene-Regular.ttf	False
+Noto Sans Pau Cin Hau	/usr/share/fonts/noto/NotoSansPauCinHau-Regular.ttf	False
+Noto Sans PhagsPa	/usr/share/fonts/noto/NotoSansPhagsPa-Regular.ttf	False
+Noto Sans Phoenician	/usr/share/fonts/noto/NotoSansPhoenician-Regular.ttf	False
+Noto Sans Psalter Pahlavi	/usr/share/fonts/noto/NotoSansPsalterPahlavi-Regular.ttf	False
+Noto Sans Rejang	/usr/share/fonts/noto/NotoSansRejang-Regular.ttf	False
+Noto Sans Runic	/usr/share/fonts/noto/NotoSansRunic-Regular.ttf	False
+Noto Sans Samaritan	/usr/share/fonts/noto/NotoSansSamaritan-Regular.ttf	False
+Noto Sans Saurashtra	/usr/share/fonts/noto/NotoSansSaurashtra-Regular.ttf	False
+Noto Sans Sharada	/usr/share/fonts/noto/NotoSansSharada-Regular.ttf	False
+Noto Sans Shavian	/usr/share/fonts/noto/NotoSansShavian-Regular.ttf	False
+Noto Sans Siddham	/usr/share/fonts/noto/NotoSansSiddham-Regular.ttf	False
+Noto Sans SignWriting	/usr/share/fonts/noto/NotoSansSignWriting-Regular.ttf	False
+Noto Sans Sinhala	/usr/share/fonts/noto/NotoSansSinhala-Black.ttf	False
+Noto Sans Sinhala	/usr/share/fonts/noto/NotoSansSinhala-BlackCondensed.ttf	False
+Noto Sans Sinhala	/usr/share/fonts/noto/NotoSansSinhala-Bold.ttf	False
+Noto Sans Sinhala	/usr/share/fonts/noto/NotoSansSinhala-Light.ttf	False
+Noto Sans Sinhala	/usr/share/fonts/noto/NotoSansSinhala-Medium.ttf	False
+Noto Sans Sinhala	/usr/share/fonts/noto/NotoSansSinhala-Regular.ttf	False
+Noto Sans Sinhala	/usr/share/fonts/noto/NotoSansSinhala-Thin.ttf	False
+Noto Sans Sinhala	/usr/share/fonts/noto/NotoSansSinhala-ThinCondensed.ttf	False
+Noto Sans Sinhala UI	/usr/share/fonts/noto/NotoSansSinhalaUI-Black.ttf	False
+Noto Sans Sinhala UI	/usr/share/fonts/noto/NotoSansSinhalaUI-Bold.ttf	False
+Noto Sans Sinhala UI	/usr/share/fonts/noto/NotoSansSinhalaUI-Light.ttf	False
+Noto Sans Sinhala UI	/usr/share/fonts/noto/NotoSansSinhalaUI-Medium.ttf	False
+Noto Sans Sinhala UI	/usr/share/fonts/noto/NotoSansSinhalaUI-Regular.ttf	False
+Noto Sans Sinhala UI	/usr/share/fonts/noto/NotoSansSinhalaUI-Thin.ttf	False
+Noto Sans Sogdian	/usr/share/fonts/noto/NotoSansSogdian-Regular.ttf	False
+Noto Sans Sora Sompeng	/usr/share/fonts/noto/NotoSansSoraSompeng-Bold.ttf	False
+Noto Sans Sora Sompeng	/usr/share/fonts/noto/NotoSansSoraSompeng-Medium.ttf	False
+Noto Sans Sora Sompeng	/usr/share/fonts/noto/NotoSansSoraSompeng-Regular.ttf	False
+Noto Sans Soyombo	/usr/share/fonts/noto/NotoSansSoyombo-Regular.ttf	False
+Noto Sans Sundanese	/usr/share/fonts/noto/NotoSansSundanese-Bold.ttf	False
+Noto Sans Sundanese	/usr/share/fonts/noto/NotoSansSundanese-Medium.ttf	False
+Noto Sans Sundanese	/usr/share/fonts/noto/NotoSansSundanese-Regular.ttf	False
+Noto Sans Sunuwar	/usr/share/fonts/noto/NotoSansSunuwar-Regular.ttf	False
+Noto Sans Syloti Nagri	/usr/share/fonts/noto/NotoSansSylotiNagri-Regular.ttf	False
+Noto Sans Symbols	/usr/share/fonts/noto/NotoSansSymbols-Black.ttf	False
+Noto Sans Symbols	/usr/share/fonts/noto/NotoSansSymbols-Bold.ttf	False
+Noto Sans Symbols	/usr/share/fonts/noto/NotoSansSymbols-Light.ttf	False
+Noto Sans Symbols	/usr/share/fonts/noto/NotoSansSymbols-Medium.ttf	False
+Noto Sans Symbols	/usr/share/fonts/noto/NotoSansSymbols-Regular.ttf	False
+Noto Sans Symbols	/usr/share/fonts/noto/NotoSansSymbols-Thin.ttf	False
+Noto Sans Symbols 2	/usr/share/fonts/noto/NotoSansSymbols2-Regular.ttf	False
+Noto Sans Syriac	/usr/share/fonts/noto/NotoSansSyriac-Black.ttf	False
+Noto Sans Syriac	/usr/share/fonts/noto/NotoSansSyriac-Regular.ttf	False
+Noto Sans Syriac	/usr/share/fonts/noto/NotoSansSyriac-Thin.ttf	False
+Noto Sans Syriac Eastern	/usr/share/fonts/noto/NotoSansSyriacEastern-Black.ttf	False
+Noto Sans Syriac Eastern	/usr/share/fonts/noto/NotoSansSyriacEastern-Regular.ttf	False
+Noto Sans Syriac Eastern	/usr/share/fonts/noto/NotoSansSyriacEastern-Thin.ttf	False
+Noto Sans Syriac Western	/usr/share/fonts/noto/NotoSansSyriacWestern-Black.ttf	False
+Noto Sans Syriac Western	/usr/share/fonts/noto/NotoSansSyriacWestern-Regular.ttf	False
+Noto Sans Syriac Western	/usr/share/fonts/noto/NotoSansSyriacWestern-Thin.ttf	False
+Noto Sans Tagalog	/usr/share/fonts/noto/NotoSansTagalog-Regular.ttf	False
+Noto Sans Tagbanwa	/usr/share/fonts/noto/NotoSansTagbanwa-Regular.ttf	False
+Noto Sans Tai Le	/usr/share/fonts/noto/NotoSansTaiLe-Regular.ttf	False
+Noto Sans Tai Tham	/usr/share/fonts/noto/NotoSansTaiTham-Bold.ttf	False
+Noto Sans Tai Tham	/usr/share/fonts/noto/NotoSansTaiTham-Medium.ttf	False
+Noto Sans Tai Tham	/usr/share/fonts/noto/NotoSansTaiTham-Regular.ttf	False
+Noto Sans Tai Viet	/usr/share/fonts/noto/NotoSansTaiViet-Regular.ttf	False
+Noto Sans Takri	/usr/share/fonts/noto/NotoSansTakri-Regular.ttf	False
+Noto Sans Tamil	/usr/share/fonts/noto/NotoSansTamil-Black.ttf	False
+Noto Sans Tamil	/usr/share/fonts/noto/NotoSansTamil-Bold.ttf	False
+Noto Sans Tamil	/usr/share/fonts/noto/NotoSansTamil-Light.ttf	False
+Noto Sans Tamil	/usr/share/fonts/noto/NotoSansTamil-Medium.ttf	False
+Noto Sans Tamil	/usr/share/fonts/noto/NotoSansTamil-Regular.ttf	False
+Noto Sans Tamil	/usr/share/fonts/noto/NotoSansTamil-Thin.ttf	False
+Noto Sans Tamil Supplement	/usr/share/fonts/noto/NotoSansTamilSupplement-Regular.ttf	False
+Noto Sans Tamil UI	/usr/share/fonts/noto/NotoSansTamilUI-Black.ttf	False
+Noto Sans Tamil UI	/usr/share/fonts/noto/NotoSansTamilUI-Bold.ttf	False
+Noto Sans Tamil UI	/usr/share/fonts/noto/NotoSansTamilUI-Light.ttf	False
+Noto Sans Tamil UI	/usr/share/fonts/noto/NotoSansTamilUI-Medium.ttf	False
+Noto Sans Tamil UI	/usr/share/fonts/noto/NotoSansTamilUI-Regular.ttf	False
+Noto Sans Tamil UI	/usr/share/fonts/noto/NotoSansTamilUI-Thin.ttf	False
+Noto Sans Tangsa	/usr/share/fonts/noto/NotoSansTangsa-Bold.ttf	False
+Noto Sans Tangsa	/usr/share/fonts/noto/NotoSansTangsa-Medium.ttf	False
+Noto Sans Tangsa	/usr/share/fonts/noto/NotoSansTangsa-Regular.ttf	False
+Noto Sans Telugu	/usr/share/fonts/noto/NotoSansTelugu-Black.ttf	False
+Noto Sans Telugu	/usr/share/fonts/noto/NotoSansTelugu-Bold.ttf	False
+Noto Sans Telugu	/usr/share/fonts/noto/NotoSansTelugu-Light.ttf	False
+Noto Sans Telugu	/usr/share/fonts/noto/NotoSansTelugu-Medium.ttf	False
+Noto Sans Telugu	/usr/share/fonts/noto/NotoSansTelugu-Regular.ttf	False
+Noto Sans Telugu	/usr/share/fonts/noto/NotoSansTelugu-Thin.ttf	False
+Noto Sans Telugu UI	/usr/share/fonts/noto/NotoSansTeluguUI-Black.ttf	False
+Noto Sans Telugu UI	/usr/share/fonts/noto/NotoSansTeluguUI-Bold.ttf	False
+Noto Sans Telugu UI	/usr/share/fonts/noto/NotoSansTeluguUI-Light.ttf	False
+Noto Sans Telugu UI	/usr/share/fonts/noto/NotoSansTeluguUI-Medium.ttf	False
+Noto Sans Telugu UI	/usr/share/fonts/noto/NotoSansTeluguUI-Regular.ttf	False
+Noto Sans Telugu UI	/usr/share/fonts/noto/NotoSansTeluguUI-Thin.ttf	False
+Noto Sans Test	/usr/share/fonts/noto/NotoSansTest-Regular.ttf	False
+Noto Sans Thaana	/usr/share/fonts/noto/NotoSansThaana-Black.ttf	False
+Noto Sans Thaana	/usr/share/fonts/noto/NotoSansThaana-Bold.ttf	False
+Noto Sans Thaana	/usr/share/fonts/noto/NotoSansThaana-Light.ttf	False
+Noto Sans Thaana	/usr/share/fonts/noto/NotoSansThaana-Medium.ttf	False
+Noto Sans Thaana	/usr/share/fonts/noto/NotoSansThaana-Regular.ttf	False
+Noto Sans Thaana	/usr/share/fonts/noto/NotoSansThaana-Thin.ttf	False
+Noto Sans Thai	/usr/share/fonts/noto/NotoSansThai-Black.ttf	False
+Noto Sans Thai	/usr/share/fonts/noto/NotoSansThai-Bold.ttf	False
+Noto Sans Thai	/usr/share/fonts/noto/NotoSansThai-Light.ttf	False
+Noto Sans Thai	/usr/share/fonts/noto/NotoSansThai-Medium.ttf	False
+Noto Sans Thai	/usr/share/fonts/noto/NotoSansThai-Regular.ttf	False
+Noto Sans Thai	/usr/share/fonts/noto/NotoSansThai-Thin.ttf	False
+Noto Sans Thai Looped	/usr/share/fonts/noto/NotoSansThaiLooped-Black.ttf	False
+Noto Sans Thai Looped	/usr/share/fonts/noto/NotoSansThaiLooped-Bold.ttf	False
+Noto Sans Thai Looped	/usr/share/fonts/noto/NotoSansThaiLooped-Light.ttf	False
+Noto Sans Thai Looped	/usr/share/fonts/noto/NotoSansThaiLooped-Medium.ttf	False
+Noto Sans Thai Looped	/usr/share/fonts/noto/NotoSansThaiLooped-Regular.ttf	False
+Noto Sans Thai Looped	/usr/share/fonts/noto/NotoSansThaiLooped-Thin.ttf	False
+Noto Sans Tifinagh	/usr/share/fonts/noto/NotoSansTifinagh-Regular.ttf	False
+Noto Sans Tifinagh APT	/usr/share/fonts/noto/NotoSansTifinaghAPT-Regular.ttf	False
+Noto Sans Tifinagh Adrar	/usr/share/fonts/noto/NotoSansTifinaghAdrar-Regular.ttf	False
+Noto Sans Tifinagh Agraw Imazighen	/usr/share/fonts/noto/NotoSansTifinaghAgrawImazighen-Regular.ttf	False
+Noto Sans Tifinagh Ahaggar	/usr/share/fonts/noto/NotoSansTifinaghAhaggar-Regular.ttf	False
+Noto Sans Tifinagh Air	/usr/share/fonts/noto/NotoSansTifinaghAir-Regular.ttf	False
+Noto Sans Tifinagh Azawagh	/usr/share/fonts/noto/NotoSansTifinaghAzawagh-Regular.ttf	False
+Noto Sans Tifinagh Ghat	/usr/share/fonts/noto/NotoSansTifinaghGhat-Regular.ttf	False
+Noto Sans Tifinagh Hawad	/usr/share/fonts/noto/NotoSansTifinaghHawad-Regular.ttf	False
+Noto Sans Tifinagh Rhissa Ixa	/usr/share/fonts/noto/NotoSansTifinaghRhissaIxa-Regular.ttf	False
+Noto Sans Tifinagh SIL	/usr/share/fonts/noto/NotoSansTifinaghSIL-Regular.ttf	False
+Noto Sans Tifinagh Tawellemmet	/usr/share/fonts/noto/NotoSansTifinaghTawellemmet-Regular.ttf	False
+Noto Sans Tirhuta	/usr/share/fonts/noto/NotoSansTirhuta-Regular.ttf	False
+Noto Sans Ugaritic	/usr/share/fonts/noto/NotoSansUgaritic-Regular.ttf	False
+Noto Sans Vai	/usr/share/fonts/noto/NotoSansVai-Regular.ttf	False
+Noto Sans Vithkuqi	/usr/share/fonts/noto/NotoSansVithkuqi-Bold.ttf	False
+Noto Sans Vithkuqi	/usr/share/fonts/noto/NotoSansVithkuqi-Medium.ttf	False
+Noto Sans Vithkuqi	/usr/share/fonts/noto/NotoSansVithkuqi-Regular.ttf	False
+Noto Sans Wancho	/usr/share/fonts/noto/NotoSansWancho-Regular.ttf	False
+Noto Sans Warang Citi	/usr/share/fonts/noto/NotoSansWarangCiti-Regular.ttf	False
+Noto Sans Yi	/usr/share/fonts/noto/NotoSansYi-Regular.ttf	False
+Noto Sans Zanabazar Square	/usr/share/fonts/noto/NotoSansZanabazarSquare-Regular.ttf	False
+Noto Serif	/usr/share/fonts/noto/NotoSerif-Black.ttf	False
+Noto Serif	/usr/share/fonts/noto/NotoSerif-BlackItalic.ttf	False
+Noto Serif	/usr/share/fonts/noto/NotoSerif-Bold.ttf	False
+Noto Serif	/usr/share/fonts/noto/NotoSerif-BoldItalic.ttf	False
+Noto Serif	/usr/share/fonts/noto/NotoSerif-Italic.ttf	False
+Noto Serif	/usr/share/fonts/noto/NotoSerif-Light.ttf	False
+Noto Serif	/usr/share/fonts/noto/NotoSerif-LightItalic.ttf	False
+Noto Serif	/usr/share/fonts/noto/NotoSerif-Medium.ttf	False
+Noto Serif	/usr/share/fonts/noto/NotoSerif-MediumItalic.ttf	False
+Noto Serif	/usr/share/fonts/noto/NotoSerif-Regular.ttf	False
+Noto Serif	/usr/share/fonts/noto/NotoSerif-Thin.ttf	False
+Noto Serif	/usr/share/fonts/noto/NotoSerif-ThinItalic.ttf	False
+Noto Serif Ahom	/usr/share/fonts/noto/NotoSerifAhom-Regular.ttf	False
+Noto Serif Armenian	/usr/share/fonts/noto/NotoSerifArmenian-Black.ttf	False
+Noto Serif Armenian	/usr/share/fonts/noto/NotoSerifArmenian-Bold.ttf	False
+Noto Serif Armenian	/usr/share/fonts/noto/NotoSerifArmenian-Light.ttf	False
+Noto Serif Armenian	/usr/share/fonts/noto/NotoSerifArmenian-Medium.ttf	False
+Noto Serif Armenian	/usr/share/fonts/noto/NotoSerifArmenian-Regular.ttf	False
+Noto Serif Armenian	/usr/share/fonts/noto/NotoSerifArmenian-Thin.ttf	False
+Noto Serif Balinese	/usr/share/fonts/noto/NotoSerifBalinese-Regular.ttf	False
+Noto Serif Bengali	/usr/share/fonts/noto/NotoSerifBengali-Black.ttf	False
+Noto Serif Bengali	/usr/share/fonts/noto/NotoSerifBengali-Bold.ttf	False
+Noto Serif Bengali	/usr/share/fonts/noto/NotoSerifBengali-Light.ttf	False
+Noto Serif Bengali	/usr/share/fonts/noto/NotoSerifBengali-Medium.ttf	False
+Noto Serif Bengali	/usr/share/fonts/noto/NotoSerifBengali-Regular.ttf	False
+Noto Serif Bengali	/usr/share/fonts/noto/NotoSerifBengali-Thin.ttf	False
+Noto Serif Devanagari	/usr/share/fonts/noto/NotoSerifDevanagari-Black.ttf	False
+Noto Serif Devanagari	/usr/share/fonts/noto/NotoSerifDevanagari-Bold.ttf	False
+Noto Serif Devanagari	/usr/share/fonts/noto/NotoSerifDevanagari-Light.ttf	False
+Noto Serif Devanagari	/usr/share/fonts/noto/NotoSerifDevanagari-Medium.ttf	False
+Noto Serif Devanagari	/usr/share/fonts/noto/NotoSerifDevanagari-Regular.ttf	False
+Noto Serif Devanagari	/usr/share/fonts/noto/NotoSerifDevanagari-Thin.ttf	False
+Noto Serif Display	/usr/share/fonts/noto/NotoSerifDisplay-Black.ttf	False
+Noto Serif Display	/usr/share/fonts/noto/NotoSerifDisplay-BlackItalic.ttf	False
+Noto Serif Display	/usr/share/fonts/noto/NotoSerifDisplay-Bold.ttf	False
+Noto Serif Display	/usr/share/fonts/noto/NotoSerifDisplay-BoldItalic.ttf	False
+Noto Serif Display	/usr/share/fonts/noto/NotoSerifDisplay-Italic.ttf	False
+Noto Serif Display	/usr/share/fonts/noto/NotoSerifDisplay-Light.ttf	False
+Noto Serif Display	/usr/share/fonts/noto/NotoSerifDisplay-LightItalic.ttf	False
+Noto Serif Display	/usr/share/fonts/noto/NotoSerifDisplay-Medium.ttf	False
+Noto Serif Display	/usr/share/fonts/noto/NotoSerifDisplay-MediumItalic.ttf	False
+Noto Serif Display	/usr/share/fonts/noto/NotoSerifDisplay-Regular.ttf	False
+Noto Serif Display	/usr/share/fonts/noto/NotoSerifDisplay-Thin.ttf	False
+Noto Serif Display	/usr/share/fonts/noto/NotoSerifDisplay-ThinItalic.ttf	False
+Noto Serif Dives Akuru	/usr/share/fonts/noto/NotoSerifDivesAkuru-Regular.ttf	False
+Noto Serif Dogra	/usr/share/fonts/noto/NotoSerifDogra-Regular.ttf	False
+Noto Serif Ethiopic	/usr/share/fonts/noto/NotoSerifEthiopic-Black.ttf	False
+Noto Serif Ethiopic	/usr/share/fonts/noto/NotoSerifEthiopic-Bold.ttf	False
+Noto Serif Ethiopic	/usr/share/fonts/noto/NotoSerifEthiopic-Light.ttf	False
+Noto Serif Ethiopic	/usr/share/fonts/noto/NotoSerifEthiopic-Medium.ttf	False
+Noto Serif Ethiopic	/usr/share/fonts/noto/NotoSerifEthiopic-Regular.ttf	False
+Noto Serif Ethiopic	/usr/share/fonts/noto/NotoSerifEthiopic-Thin.ttf	False
+Noto Serif Georgian	/usr/share/fonts/noto/NotoSerifGeorgian-Black.ttf	False
+Noto Serif Georgian	/usr/share/fonts/noto/NotoSerifGeorgian-Bold.ttf	False
+Noto Serif Georgian	/usr/share/fonts/noto/NotoSerifGeorgian-Light.ttf	False
+Noto Serif Georgian	/usr/share/fonts/noto/NotoSerifGeorgian-Medium.ttf	False
+Noto Serif Georgian	/usr/share/fonts/noto/NotoSerifGeorgian-Regular.ttf	False
+Noto Serif Georgian	/usr/share/fonts/noto/NotoSerifGeorgian-Thin.ttf	False
+Noto Serif Grantha	/usr/share/fonts/noto/NotoSerifGrantha-Regular.ttf	False
+Noto Serif Gujarati	/usr/share/fonts/noto/NotoSerifGujarati-Black.ttf	False
+Noto Serif Gujarati	/usr/share/fonts/noto/NotoSerifGujarati-Bold.ttf	False
+Noto Serif Gujarati	/usr/share/fonts/noto/NotoSerifGujarati-Light.ttf	False
+Noto Serif Gujarati	/usr/share/fonts/noto/NotoSerifGujarati-Medium.ttf	False
+Noto Serif Gujarati	/usr/share/fonts/noto/NotoSerifGujarati-Regular.ttf	False
+Noto Serif Gujarati	/usr/share/fonts/noto/NotoSerifGujarati-Thin.ttf	False
+Noto Serif Gurmukhi	/usr/share/fonts/noto/NotoSerifGurmukhi-Black.ttf	False
+Noto Serif Gurmukhi	/usr/share/fonts/noto/NotoSerifGurmukhi-Bold.ttf	False
+Noto Serif Gurmukhi	/usr/share/fonts/noto/NotoSerifGurmukhi-Light.ttf	False
+Noto Serif Gurmukhi	/usr/share/fonts/noto/NotoSerifGurmukhi-Medium.ttf	False
+Noto Serif Gurmukhi	/usr/share/fonts/noto/NotoSerifGurmukhi-Regular.ttf	False
+Noto Serif Gurmukhi	/usr/share/fonts/noto/NotoSerifGurmukhi-Thin.ttf	False
+Noto Serif Hebrew	/usr/share/fonts/noto/NotoSerifHebrew-Black.ttf	False
+Noto Serif Hebrew	/usr/share/fonts/noto/NotoSerifHebrew-Bold.ttf	False
+Noto Serif Hebrew	/usr/share/fonts/noto/NotoSerifHebrew-Light.ttf	False
+Noto Serif Hebrew	/usr/share/fonts/noto/NotoSerifHebrew-Medium.ttf	False
+Noto Serif Hebrew	/usr/share/fonts/noto/NotoSerifHebrew-Regular.ttf	False
+Noto Serif Hebrew	/usr/share/fonts/noto/NotoSerifHebrew-Thin.ttf	False
+Noto Serif Hentaigana	/usr/share/fonts/noto/NotoSerifHentaigana-Black.ttf	False
+Noto Serif Hentaigana	/usr/share/fonts/noto/NotoSerifHentaigana-Bold.ttf	False
+Noto Serif Hentaigana	/usr/share/fonts/noto/NotoSerifHentaigana-Light.ttf	False
+Noto Serif Hentaigana	/usr/share/fonts/noto/NotoSerifHentaigana-Medium.ttf	False
+Noto Serif Hentaigana	/usr/share/fonts/noto/NotoSerifHentaigana-Regular.ttf	False
+Noto Serif Kannada	/usr/share/fonts/noto/NotoSerifKannada-Black.ttf	False
+Noto Serif Kannada	/usr/share/fonts/noto/NotoSerifKannada-Bold.ttf	False
+Noto Serif Kannada	/usr/share/fonts/noto/NotoSerifKannada-Light.ttf	False
+Noto Serif Kannada	/usr/share/fonts/noto/NotoSerifKannada-Medium.ttf	False
+Noto Serif Kannada	/usr/share/fonts/noto/NotoSerifKannada-Regular.ttf	False
+Noto Serif Kannada	/usr/share/fonts/noto/NotoSerifKannada-Thin.ttf	False
+Noto Serif Khitan Small Script	/usr/share/fonts/noto/NotoSerifKhitanSmallScript-Regular.ttf	False
+Noto Serif Khmer	/usr/share/fonts/noto/NotoSerifKhmer-Black.ttf	False
+Noto Serif Khmer	/usr/share/fonts/noto/NotoSerifKhmer-Bold.ttf	False
+Noto Serif Khmer	/usr/share/fonts/noto/NotoSerifKhmer-Light.ttf	False
+Noto Serif Khmer	/usr/share/fonts/noto/NotoSerifKhmer-Medium.ttf	False
+Noto Serif Khmer	/usr/share/fonts/noto/NotoSerifKhmer-Regular.ttf	False
+Noto Serif Khmer	/usr/share/fonts/noto/NotoSerifKhmer-Thin.ttf	False
+Noto Serif Khojki	/usr/share/fonts/noto/NotoSerifKhojki-Bold.ttf	False
+Noto Serif Khojki	/usr/share/fonts/noto/NotoSerifKhojki-Regular.ttf	False
+Noto Serif Lao	/usr/share/fonts/noto/NotoSerifLao-Black.ttf	False
+Noto Serif Lao	/usr/share/fonts/noto/NotoSerifLao-Bold.ttf	False
+Noto Serif Lao	/usr/share/fonts/noto/NotoSerifLao-Light.ttf	False
+Noto Serif Lao	/usr/share/fonts/noto/NotoSerifLao-Medium.ttf	False
+Noto Serif Lao	/usr/share/fonts/noto/NotoSerifLao-Regular.ttf	False
+Noto Serif Lao	/usr/share/fonts/noto/NotoSerifLao-Thin.ttf	False
+Noto Serif Makasar	/usr/share/fonts/noto/NotoSerifMakasar-Regular.ttf	False
+Noto Serif Malayalam	/usr/share/fonts/noto/NotoSerifMalayalam-Black.ttf	False
+Noto Serif Malayalam	/usr/share/fonts/noto/NotoSerifMalayalam-Bold.ttf	False
+Noto Serif Malayalam	/usr/share/fonts/noto/NotoSerifMalayalam-Light.ttf	False
+Noto Serif Malayalam	/usr/share/fonts/noto/NotoSerifMalayalam-Medium.ttf	False
+Noto Serif Malayalam	/usr/share/fonts/noto/NotoSerifMalayalam-Regular.ttf	False
+Noto Serif Malayalam	/usr/share/fonts/noto/NotoSerifMalayalam-Thin.ttf	False
+Noto Serif Myanmar	/usr/share/fonts/noto/NotoSerifMyanmar-Black.ttf	False
+Noto Serif Myanmar	/usr/share/fonts/noto/NotoSerifMyanmar-Bold.ttf	False
+Noto Serif Myanmar	/usr/share/fonts/noto/NotoSerifMyanmar-Light.ttf	False
+Noto Serif Myanmar	/usr/share/fonts/noto/NotoSerifMyanmar-Medium.ttf	False
+Noto Serif Myanmar	/usr/share/fonts/noto/NotoSerifMyanmar-Regular.ttf	False
+Noto Serif Myanmar	/usr/share/fonts/noto/NotoSerifMyanmar-Thin.ttf	False
+Noto Serif NP Hmong	/usr/share/fonts/noto/NotoSerifNPHmong-Bold.ttf	False
+Noto Serif NP Hmong	/usr/share/fonts/noto/NotoSerifNPHmong-Medium.ttf	False
+Noto Serif NP Hmong	/usr/share/fonts/noto/NotoSerifNPHmong-Regular.ttf	False
+Noto Serif Old Uyghur	/usr/share/fonts/noto/NotoSerifOldUyghur-Regular.ttf	False
+Noto Serif Oriya	/usr/share/fonts/noto/NotoSerifOriya-Bold.ttf	False
+Noto Serif Oriya	/usr/share/fonts/noto/NotoSerifOriya-Medium.ttf	False
+Noto Serif Oriya	/usr/share/fonts/noto/NotoSerifOriya-Regular.ttf	False
+Noto Serif Ottoman Siyaq	/usr/share/fonts/noto/NotoSerifOttomanSiyaq-Regular.ttf	False
+Noto Serif Sinhala	/usr/share/fonts/noto/NotoSerifSinhala-Black.ttf	False
+Noto Serif Sinhala	/usr/share/fonts/noto/NotoSerifSinhala-Bold.ttf	False
+Noto Serif Sinhala	/usr/share/fonts/noto/NotoSerifSinhala-Light.ttf	False
+Noto Serif Sinhala	/usr/share/fonts/noto/NotoSerifSinhala-Medium.ttf	False
+Noto Serif Sinhala	/usr/share/fonts/noto/NotoSerifSinhala-Regular.ttf	False
+Noto Serif Sinhala	/usr/share/fonts/noto/NotoSerifSinhala-Thin.ttf	False
+Noto Serif Tamil	/usr/share/fonts/noto/NotoSerifTamil-Black.ttf	False
+Noto Serif Tamil	/usr/share/fonts/noto/NotoSerifTamil-BlackItalic.ttf	False
+Noto Serif Tamil	/usr/share/fonts/noto/NotoSerifTamil-Bold.ttf	False
+Noto Serif Tamil	/usr/share/fonts/noto/NotoSerifTamil-BoldItalic.ttf	False
+Noto Serif Tamil	/usr/share/fonts/noto/NotoSerifTamil-Italic.ttf	False
+Noto Serif Tamil	/usr/share/fonts/noto/NotoSerifTamil-Light.ttf	False
+Noto Serif Tamil	/usr/share/fonts/noto/NotoSerifTamil-LightItalic.ttf	False
+Noto Serif Tamil	/usr/share/fonts/noto/NotoSerifTamil-Medium.ttf	False
+Noto Serif Tamil	/usr/share/fonts/noto/NotoSerifTamil-MediumItalic.ttf	False
+Noto Serif Tamil	/usr/share/fonts/noto/NotoSerifTamil-Regular.ttf	False
+Noto Serif Tamil	/usr/share/fonts/noto/NotoSerifTamil-Thin.ttf	False
+Noto Serif Tamil	/usr/share/fonts/noto/NotoSerifTamil-ThinItalic.ttf	False
+Noto Serif Tangut	/usr/share/fonts/noto/NotoSerifTangut-Regular.ttf	False
+Noto Serif Telugu	/usr/share/fonts/noto/NotoSerifTelugu-Black.ttf	False
+Noto Serif Telugu	/usr/share/fonts/noto/NotoSerifTelugu-Bold.ttf	False
+Noto Serif Telugu	/usr/share/fonts/noto/NotoSerifTelugu-Light.ttf	False
+Noto Serif Telugu	/usr/share/fonts/noto/NotoSerifTelugu-Medium.ttf	False
+Noto Serif Telugu	/usr/share/fonts/noto/NotoSerifTelugu-Regular.ttf	False
+Noto Serif Telugu	/usr/share/fonts/noto/NotoSerifTelugu-Thin.ttf	False
+Noto Serif Test	/usr/share/fonts/noto/NotoSerifTest-Bold.ttf	False
+Noto Serif Test	/usr/share/fonts/noto/NotoSerifTest-Regular.ttf	False
+Noto Serif Thai	/usr/share/fonts/noto/NotoSerifThai-Black.ttf	False
+Noto Serif Thai	/usr/share/fonts/noto/NotoSerifThai-Bold.ttf	False
+Noto Serif Thai	/usr/share/fonts/noto/NotoSerifThai-Light.ttf	False
+Noto Serif Thai	/usr/share/fonts/noto/NotoSerifThai-Medium.ttf	False
+Noto Serif Thai	/usr/share/fonts/noto/NotoSerifThai-Regular.ttf	False
+Noto Serif Thai	/usr/share/fonts/noto/NotoSerifThai-Thin.ttf	False
+Noto Serif Tibetan	/usr/share/fonts/noto/NotoSerifTibetan-Black.ttf	False
+Noto Serif Tibetan	/usr/share/fonts/noto/NotoSerifTibetan-Bold.ttf	False
+Noto Serif Tibetan	/usr/share/fonts/noto/NotoSerifTibetan-Light.ttf	False
+Noto Serif Tibetan	/usr/share/fonts/noto/NotoSerifTibetan-Medium.ttf	False
+Noto Serif Tibetan	/usr/share/fonts/noto/NotoSerifTibetan-Regular.ttf	False
+Noto Serif Tibetan	/usr/share/fonts/noto/NotoSerifTibetan-Thin.ttf	False
+Noto Serif Todhri	/usr/share/fonts/noto/NotoSerifTodhri-Regular.ttf	False
+Noto Serif Toto	/usr/share/fonts/noto/NotoSerifToto-Bold.ttf	False
+Noto Serif Toto	/usr/share/fonts/noto/NotoSerifToto-Medium.ttf	False
+Noto Serif Toto	/usr/share/fonts/noto/NotoSerifToto-Regular.ttf	False
+Noto Serif Vithkuqi	/usr/share/fonts/noto/NotoSerifVithkuqi-Bold.ttf	False
+Noto Serif Vithkuqi	/usr/share/fonts/noto/NotoSerifVithkuqi-Medium.ttf	False
+Noto Serif Vithkuqi	/usr/share/fonts/noto/NotoSerifVithkuqi-Regular.ttf	False
+Noto Serif Yezidi	/usr/share/fonts/noto/NotoSerifYezidi-Bold.ttf	False
+Noto Serif Yezidi	/usr/share/fonts/noto/NotoSerifYezidi-Medium.ttf	False
+Noto Serif Yezidi	/usr/share/fonts/noto/NotoSerifYezidi-Regular.ttf	False
+Noto Traditional Nushu	/usr/share/fonts/noto/NotoTraditionalNushu-Bold.ttf	False
+Noto Traditional Nushu	/usr/share/fonts/noto/NotoTraditionalNushu-Light.ttf	False
+Noto Traditional Nushu	/usr/share/fonts/noto/NotoTraditionalNushu-Regular.ttf	False
+Noto Znamenny Musical Notation	/usr/share/fonts/noto/NotoZnamennyMusicalNotation-Regular.ttf	True

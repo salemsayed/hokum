@@ -1,0 +1,22 @@
+{
+  "arch": {
+    "stock_changed_pixels": 0,
+    "stock_unmasked_changed_pixels": 150
+  },
+  "ubuntu": {
+    "stock_changed_pixels": 0,
+    "stock_unmasked_changed_pixels": 0
+  },
+  "opensuse": {
+    "stock_changed_pixels": 0,
+    "stock_unmasked_changed_pixels": 0
+  },
+  "fedora": {
+    "stock_changed_pixels": 0,
+    "stock_unmasked_changed_pixels": 0
+  },
+  "debian": {
+    "stock_changed_pixels": 0,
+    "stock_unmasked_changed_pixels": 0
+  }
+}

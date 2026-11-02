@@ -1,0 +1,5 @@
+FROM archlinux:latest
+COPY harness/assets/mirrorlist /etc/pacman.d/mirrorlist
+RUN pacman -Syu --noconfirm --needed --disable-download-timeout sway grim dbus vulkan-swrast libpipewire libxkbcommon ttf-dejavu ttf-liberation noto-fonts noto-fonts-emoji libnotify glib2 python fontconfig && pacman -Scc --noconfirm
+RUN setcap -r /usr/bin/sway
+ENV XDG_CURRENT_DESKTOP=Hyprland

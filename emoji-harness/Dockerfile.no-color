@@ -1,0 +1,2 @@
+FROM hokum-emoji/arch
+RUN pacman -R --noconfirm noto-fonts-emoji && fc-cache -f

@@ -1,0 +1,3 @@
+FROM opensuse/tumbleweed
+RUN zypper -n install --no-recommends sway grim dbus-1 dbus-1-daemon libvulkan_lvp libpipewire-0_3-0 libxkbcommon0 google-noto-sans-fonts google-noto-coloremoji-fonts google-noto-sans-arabic-fonts dejavu-fonts liberation-fonts libnotify-tools glib2-tools python3 fontconfig && zypper clean -a
+ENV XDG_CURRENT_DESKTOP=KDE

@@ -1,0 +1,4 @@
+FROM fedora:latest
+RUN dnf -y install --setopt=install_weak_deps=False sway grim dbus-daemon dbus-tools mesa-vulkan-drivers vulkan-loader pipewire-libs libxkbcommon google-noto-sans-fonts google-noto-color-emoji-fonts google-noto-sans-arabic-fonts dejavu-sans-fonts liberation-sans-fonts libnotify glib2 python3 fontconfig && dnf clean all
+ENV XDG_CURRENT_DESKTOP=GNOME
+RUN setcap -r /usr/bin/sway
