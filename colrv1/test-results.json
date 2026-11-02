@@ -1,9 +1,20 @@
 {
   "rune_colrv1": {
-    "revision": "fca6fb3ca8c06d7271d570952600f00ca5f9fbe2",
-    "features": "--no-default-features --features dbus,embedded-fonts,svg",
-    "filtered_suite": {"command": "cargo test --locked -p rune --lib -- colr emoji routes revealed_secure_input", "passed": 31, "failed": 0, "new_tests": 11},
-    "text_suite": {"command": "cargo test --locked -p rune --lib -- text::", "passed": 118, "failed": 1, "ignored": 3, "failing": "text::tests::italic_uses_the_real_face_or_a_synthetic_oblique, also failing on unchanged emoji-presentation 7b92c9bd in this environment"},
+    "revision": "b159c8f870fb1608bd8d70254e06e2a9546549ac",
+    "features": "--no-default-features --features dbus,embedded-fonts,svg; default features include metal-backend, whose library tests do not compile on Linux",
+    "filtered_suite": {
+      "command": "cargo test --locked -p rune --lib -- colr emoji routes revealed_secure_input",
+      "passed": 33,
+      "failed": 0,
+      "new_tests": 13
+    },
+    "text_suite": {
+      "command": "cargo test --locked -p rune --lib -- text::",
+      "passed": 120,
+      "failed": 1,
+      "ignored": 3,
+      "failing": "text::tests::italic_uses_the_real_face_or_a_synthetic_oblique, also failing on unchanged emoji-presentation 7b92c9bd in this environment"
+    },
     "clippy_lib": "passed, existing warnings, none in the new or changed emoji files",
     "clippy_lib_tests": "fails on existing approx_constant errors in native_surface/tests.rs, as on upstream",
     "rustfmt_check": "passed for colr.rs, colr_tests.rs, emoji_fonts.rs, emoji_fonts_tests.rs; repository-wide formatting already differs upstream",
@@ -12,7 +23,12 @@
   "rune_colrv1_hokum": {
     "revision": "2b84bea0cac5e8f5597fbd095076904c7f6f840f",
     "features": "default",
-    "filtered_suite": {"command": "cargo test --locked -p rune --lib -- colr emoji routes revealed_secure_input", "passed": 31, "failed": 0},
+    "filtered_suite": {
+      "command": "cargo test --locked -p rune --lib -- colr emoji routes revealed_secure_input",
+      "passed": 31,
+      "failed": 0,
+      "note": "backport carries the painter commit only, without the two later tests-only additions"
+    },
     "clippy_lib": "passed, existing warnings",
     "clippy_lib_tests": "fails on existing approx_constant errors in native_surface/tests.rs",
     "rustfmt_check": "passed for the same four files",
@@ -20,7 +36,10 @@
   },
   "hokum_emoji_presentation_colrv1": {
     "revision": "6ecf26d11cffce096136b18964030a473f986ae6",
-    "cargo_test_locked": {"passed": 132, "failed": 0},
+    "cargo_test_locked": {
+      "passed": 132,
+      "failed": 0
+    },
     "clippy_all_targets": "passed, existing warnings",
     "fmt_check": "passed",
     "release_build": "scripts/build-linux.sh on Ubuntu 24.04 passed, including its four snapshot renders"

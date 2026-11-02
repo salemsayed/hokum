@@ -7,7 +7,7 @@ Code revisions tested:
 | anomalyco/hokum dev | f30af6ae2762bf9a3b41b9cbccac6e01cbed08ab | Unchanged baseline (`dev`) |
 | salemsayed/hokum emoji-presentation | 4ca7b9b86e9814de783522d15496f32f67a633c6 | Emoji presentation fix only (`branch`) |
 | salemsayed/hokum emoji-presentation-colrv1 | 6ecf26d11cffce096136b18964030a473f986ae6 | Presentation fix plus COLRv1 painter (`colrv1`) |
-| salemsayed/rune colrv1 | fca6fb3ca8c06d7271d570952600f00ca5f9fbe2 | COLRv1 painter, stacked on emoji-presentation 7b92c9bd |
+| salemsayed/rune colrv1 | b159c8f870fb1608bd8d70254e06e2a9546549ac | COLRv1 painter (fca6fb3c) plus two tests-only additions, stacked on emoji-presentation 7b92c9bd |
 | salemsayed/rune colrv1-hokum | 2b84bea0cac5e8f5597fbd095076904c7f6f840f | Same change on emoji-presentation-hokum 57e19975 (Hokum's Rune pin 49acd141 plus the presentation fix) |
 
 Executables were built with upstream `scripts/build-linux.sh` on Ubuntu 24.04, which also renders its four snapshot smoke tests. SHA256: `dev` 51c549101ca09267f160e37aaf2fceda8fd7ebcdb7e16343955961d450699f63, `branch` c14bbf98b7f6c1dcd71bc665810463fb67fe52dacd9d7ad5d71ab0d2b66d6f83 (byte-identical to the executable in [emoji-presentation](../emoji-presentation)), `colrv1` 34189fb802c4b55a5688382e08c4e2f2d19081f4f92ccc61a73115eb5ead38d6.

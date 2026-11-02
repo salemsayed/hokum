@@ -155,8 +155,8 @@
  "matrix/ubuntu/dev/stock/fonts.txt": "41a8e0af8de2f409ef73f45bbbddd12c16e8a7c2259250e71fee34c23487140b",
  "matrix/ubuntu/dev/stock/os-release.txt": "87458b3b1f1ca0e5c693ade771de7007c3783bdc692fa6b39eb6414bf2af2763",
  "raster-bench.txt": "684b774301bd13d623855432c256217e5839325420ab4eba4ab581a1dd39abb1",
- "README.md": "6382a4471b2af67af84041bd33f3c775afaadedc891a073b50d1a350fd5547e2",
+ "README.md": "7ca658473d265ee84dc9c8f2cad032b9b845fd75181fb2dcc958d04e9d1ba699",
  "startup-runs.tsv": "be90ad60dc6b4bcf12477cee28c91992f3e1f9cfec8b011aa94cfe798e93454d",
  "test-glyphs-vs-hb-view.png": "35722ee68e6e6e9b828997330ff2216516656def284a1dcf7bad441829ee6e50",
- "test-results.json": "3250bf270de8d5bdd69cecaa330c3416b65e48c8d0beb3f8be61f3bd274252d0"
+ "test-results.json": "2a91e150adbdd1a0913ec20eec6c74333a38e7fc178db8e90a60d785db13bf47"
 }
