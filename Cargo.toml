@@ -8,9 +8,9 @@ homepage = "https://hokum.app"
 repository = "https://github.com/anomalyco/hokum"
 
 [dependencies]
-rune = { git = "https://github.com/salemsayed/rune.git", rev = "57e1997509f33126282e2e616a6deb371e5d0e26" }
-rune-kit = { git = "https://github.com/salemsayed/rune.git", rev = "57e1997509f33126282e2e616a6deb371e5d0e26" }
-rune-theme-opencode = { git = "https://github.com/salemsayed/rune.git", rev = "57e1997509f33126282e2e616a6deb371e5d0e26" }
+rune = { git = "https://github.com/salemsayed/rune.git", rev = "2b84bea0cac5e8f5597fbd095076904c7f6f840f" }
+rune-kit = { git = "https://github.com/salemsayed/rune.git", rev = "2b84bea0cac5e8f5597fbd095076904c7f6f840f" }
+rune-theme-opencode = { git = "https://github.com/salemsayed/rune.git", rev = "2b84bea0cac5e8f5597fbd095076904c7f6f840f" }
 zbus = "5"
 pipewire = "0.10"
 async-channel = "2"

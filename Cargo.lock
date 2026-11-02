@@ -2699,7 +2699,7 @@ checksum = "6c20b6793b5c2fa6553b250154b78d6d0db37e72700ae35fad9387a46f487c97"
 [[package]]
 name = "rune"
 version = "0.0.1"
-source = "git+https://github.com/salemsayed/rune.git?rev=57e1997509f33126282e2e616a6deb371e5d0e26#57e1997509f33126282e2e616a6deb371e5d0e26"
+source = "git+https://github.com/salemsayed/rune.git?rev=2b84bea0cac5e8f5597fbd095076904c7f6f840f#2b84bea0cac5e8f5597fbd095076904c7f6f840f"
 dependencies = [
  "arboard",
  "blake3",
@@ -2738,9 +2738,11 @@ dependencies = [
  "rustc-hash 2.1.3",
  "serde",
  "serde_json",
+ "skrifa",
  "swash",
  "symphonia",
  "taffy",
+ "tiny-skia",
  "tokio",
  "unicode-segmentation",
  "wasm-bindgen",
@@ -2765,7 +2767,7 @@ dependencies = [
 [[package]]
 name = "rune-kit"
 version = "0.0.1"
-source = "git+https://github.com/salemsayed/rune.git?rev=57e1997509f33126282e2e616a6deb371e5d0e26#57e1997509f33126282e2e616a6deb371e5d0e26"
+source = "git+https://github.com/salemsayed/rune.git?rev=2b84bea0cac5e8f5597fbd095076904c7f6f840f#2b84bea0cac5e8f5597fbd095076904c7f6f840f"
 dependencies = [
  "rune",
  "rune-motion",
@@ -2775,12 +2777,12 @@ dependencies = [
 [[package]]
 name = "rune-motion"
 version = "0.1.0"
-source = "git+https://github.com/salemsayed/rune.git?rev=57e1997509f33126282e2e616a6deb371e5d0e26#57e1997509f33126282e2e616a6deb371e5d0e26"
+source = "git+https://github.com/salemsayed/rune.git?rev=2b84bea0cac5e8f5597fbd095076904c7f6f840f#2b84bea0cac5e8f5597fbd095076904c7f6f840f"
 
 [[package]]
 name = "rune-staging"
 version = "0.0.1"
-source = "git+https://github.com/salemsayed/rune.git?rev=57e1997509f33126282e2e616a6deb371e5d0e26#57e1997509f33126282e2e616a6deb371e5d0e26"
+source = "git+https://github.com/salemsayed/rune.git?rev=2b84bea0cac5e8f5597fbd095076904c7f6f840f#2b84bea0cac5e8f5597fbd095076904c7f6f840f"
 dependencies = [
  "wgpu",
 ]
@@ -2788,7 +2790,7 @@ dependencies = [
 [[package]]
 name = "rune-theme-opencode"
 version = "0.0.1"
-source = "git+https://github.com/salemsayed/rune.git?rev=57e1997509f33126282e2e616a6deb371e5d0e26#57e1997509f33126282e2e616a6deb371e5d0e26"
+source = "git+https://github.com/salemsayed/rune.git?rev=2b84bea0cac5e8f5597fbd095076904c7f6f840f#2b84bea0cac5e8f5597fbd095076904c7f6f840f"
 dependencies = [
  "rune",
  "rune-kit",
