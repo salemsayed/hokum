@@ -6,7 +6,7 @@ Code revisions tested:
 |---|---|---|
 | anomalyco/hokum dev | f30af6ae2762bf9a3b41b9cbccac6e01cbed08ab | Unchanged baseline |
 | salemsayed/hokum emoji-presentation | 4ca7b9b86e9814de783522d15496f32f67a633c6 | Downstream integration |
-| salemsayed/rune emoji-presentation | bf0cef92bbbfa96769b5817a16ebe66c0976e4ca | Fix against Rune dev 490df14d |
+| salemsayed/rune emoji-presentation | 7b92c9bda5a21b4c94e322828f0094ab23b0f6ae | Fix against Rune dev 490df14d |
 | salemsayed/rune emoji-presentation-hokum | 57e1997509f33126282e2e616a6deb371e5d0e26 | Same fix on Hokum's existing Rune pin 49acd141 |
 
 The Hokum fork pin is provisional and the PR must remain a draft until Rune lands. Hokum contains one dependency-pin commit above its baseline. Accept the Rune change first, then use the accepted upstream URL/revision and rerun downstream verification before merging Hokum.
