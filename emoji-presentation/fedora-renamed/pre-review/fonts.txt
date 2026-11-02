@@ -1,0 +1,138 @@
+Cantarell	/usr/share/fonts/abattis-cantarell-vf-fonts/Cantarell-VF.otf	False
+Cantarell	/usr/share/fonts/abattis-cantarell-vf-fonts/Cantarell-VF.otf	False
+Cantarell	/usr/share/fonts/abattis-cantarell-vf-fonts/Cantarell-VF.otf	False
+Cantarell	/usr/share/fonts/abattis-cantarell-vf-fonts/Cantarell-VF.otf	False
+Cantarell	/usr/share/fonts/abattis-cantarell-vf-fonts/Cantarell-VF.otf	False
+Cantarell	/usr/share/fonts/abattis-cantarell-vf-fonts/Cantarell-VF.otf	False
+DejaVu Sans	/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-Bold.ttf	False
+DejaVu Sans	/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-BoldOblique.ttf	False
+DejaVu Sans	/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-ExtraLight.ttf	False
+DejaVu Sans	/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-Oblique.ttf	False
+DejaVu Sans	/usr/share/fonts/dejavu-sans-fonts/DejaVuSans.ttf	False
+DejaVu Sans	/usr/share/fonts/dejavu-sans-fonts/DejaVuSansCondensed-Bold.ttf	False
+DejaVu Sans	/usr/share/fonts/dejavu-sans-fonts/DejaVuSansCondensed-BoldOblique.ttf	False
+DejaVu Sans	/usr/share/fonts/dejavu-sans-fonts/DejaVuSansCondensed-Oblique.ttf	False
+DejaVu Sans	/usr/share/fonts/dejavu-sans-fonts/DejaVuSansCondensed.ttf	False
+Liberation Sans	/usr/share/fonts/liberation-sans-fonts/LiberationSans-Bold.ttf	False
+Liberation Sans	/usr/share/fonts/liberation-sans-fonts/LiberationSans-BoldItalic.ttf	False
+Liberation Sans	/usr/share/fonts/liberation-sans-fonts/LiberationSans-Italic.ttf	False
+Liberation Sans	/usr/share/fonts/liberation-sans-fonts/LiberationSans-Regular.ttf	False
+Noto Color Emoji	/usr/share/fonts/google-noto-color-emoji-fonts/NotoColorEmoji.ttf	True
+Noto Sans	/usr/share/fonts/google-noto-vf/NotoSans-Italic[wght].ttf	False
+Noto Sans	/usr/share/fonts/google-noto-vf/NotoSans-Italic[wght].ttf	False
+Noto Sans	/usr/share/fonts/google-noto-vf/NotoSans-Italic[wght].ttf	False
+Noto Sans	/usr/share/fonts/google-noto-vf/NotoSans-Italic[wght].ttf	False
+Noto Sans	/usr/share/fonts/google-noto-vf/NotoSans-Italic[wght].ttf	False
+Noto Sans	/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf	False
+Noto Sans	/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf	False
+Noto Sans	/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf	False
+Noto Sans	/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf	False
+Noto Sans	/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-Black.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-BlackItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-Bold.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-BoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-Condensed.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedBlack.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedBlackItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedBold.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedExtraBold.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedExtraBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedExtraLight.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedExtraLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedLight.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedMedium.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedMediumItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedSemiBold.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedSemiBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedThin.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-CondensedThinItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraBold.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensed.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedBlack.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedBlackItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedBold.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedExtraBold.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedExtraBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedExtraLight.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedExtraLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedLight.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedMedium.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedMediumItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedSemiBold.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedSemiBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedThin.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraCondensedThinItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraLight.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ExtraLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-Italic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-Light.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-LightItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-Medium.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-MediumItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-Regular.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiBold.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensed.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedBlack.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedBlackItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedBold.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedExtraBold.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedExtraBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedExtraLight.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedExtraLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedLight.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedMedium.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedMediumItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedSemiBold.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedSemiBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedThin.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-SemiCondensedThinItalic.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-Thin.ttf	False
+Noto Sans	/usr/share/fonts/google-noto/NotoSans-ThinItalic.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-Black.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-Bold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-Condensed.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-CondensedBlack.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-CondensedBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-CondensedExtraBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-CondensedExtraLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-CondensedLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-CondensedMedium.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-CondensedSemiBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-CondensedThin.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-ExtraBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-ExtraCondensed.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-ExtraCondensedBlack.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-ExtraCondensedBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-ExtraCondensedExtraBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-ExtraCondensedExtraLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-ExtraCondensedLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-ExtraCondensedMedium.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-ExtraCondensedSemiBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-ExtraCondensedThin.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-ExtraLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-Light.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-Medium.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-Regular.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-SemiBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-SemiCondensed.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-SemiCondensedBlack.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-SemiCondensedBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-SemiCondensedExtraBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-SemiCondensedExtraLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-SemiCondensedLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-SemiCondensedMedium.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-SemiCondensedSemiBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-SemiCondensedThin.ttf	False
+Noto Sans Arabic	/usr/share/fonts/google-noto/NotoSansArabic-Thin.ttf	False

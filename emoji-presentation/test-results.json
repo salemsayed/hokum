@@ -40,5 +40,29 @@
     "failed": 3,
     "ignored": 0,
     "targets": 3
+  },
+  "earlier-full-suite-revisions": {
+    "rune": "85e54fbf53f4f1ffe19ec66baa161c32ee18ee05",
+    "backport": "f14ea24f15438cdc34494f67b728d76261ec99cf"
+  },
+  "review-filtered": {
+    "rune": {
+      "revision": "bf0cef92bbbfa96769b5817a16ebe66c0976e4ca",
+      "passed": 20,
+      "failed": 0
+    },
+    "backport": {
+      "revision": "57e1997509f33126282e2e616a6deb371e5d0e26",
+      "passed": 20,
+      "failed": 0
+    },
+    "hokum": {
+      "revision": "4ca7b9b86e9814de783522d15496f32f67a633c6",
+      "passed": 132,
+      "failed": 0,
+      "clippy": "passed with existing warnings",
+      "fmt": "passed",
+      "release_smoke_renders": 4
+    }
   }
 }

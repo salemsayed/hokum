@@ -1,7 +1,7 @@
 {
   "arch": {
     "stock_changed_pixels": 0,
-    "stock_unmasked_changed_pixels": 150
+    "stock_unmasked_changed_pixels": 0
   },
   "ubuntu": {
     "stock_changed_pixels": 0,
@@ -9,7 +9,7 @@
   },
   "opensuse": {
     "stock_changed_pixels": 0,
-    "stock_unmasked_changed_pixels": 0
+    "stock_unmasked_changed_pixels": 651
   },
   "fedora": {
     "stock_changed_pixels": 0,

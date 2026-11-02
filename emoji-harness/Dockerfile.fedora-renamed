@@ -1,0 +1,2 @@
+FROM hokum-emoji/fedora
+RUN mv /usr/share/fonts/google-noto-color-emoji-fonts/Noto-COLRv1.ttf /usr/share/fonts/google-noto-color-emoji-fonts/NotoColorEmoji.ttf && fc-cache -f
