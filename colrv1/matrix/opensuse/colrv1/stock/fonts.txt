@@ -1,0 +1,158 @@
+DejaVu Math TeX Gyre	/usr/share/fonts/truetype/DejaVuMathTeXGyre.ttf	False
+DejaVu Sans	/usr/share/fonts/truetype/DejaVuSans-Bold.ttf	False
+DejaVu Sans	/usr/share/fonts/truetype/DejaVuSans-BoldOblique.ttf	False
+DejaVu Sans	/usr/share/fonts/truetype/DejaVuSans-ExtraLight.ttf	False
+DejaVu Sans	/usr/share/fonts/truetype/DejaVuSans-Oblique.ttf	False
+DejaVu Sans	/usr/share/fonts/truetype/DejaVuSans.ttf	False
+DejaVu Sans	/usr/share/fonts/truetype/DejaVuSansCondensed-Bold.ttf	False
+DejaVu Sans	/usr/share/fonts/truetype/DejaVuSansCondensed-BoldOblique.ttf	False
+DejaVu Sans	/usr/share/fonts/truetype/DejaVuSansCondensed-Oblique.ttf	False
+DejaVu Sans	/usr/share/fonts/truetype/DejaVuSansCondensed.ttf	False
+DejaVu Sans Mono	/usr/share/fonts/truetype/DejaVuSansMono-Bold.ttf	False
+DejaVu Sans Mono	/usr/share/fonts/truetype/DejaVuSansMono-BoldOblique.ttf	False
+DejaVu Sans Mono	/usr/share/fonts/truetype/DejaVuSansMono-Oblique.ttf	False
+DejaVu Sans Mono	/usr/share/fonts/truetype/DejaVuSansMono.ttf	False
+DejaVu Serif	/usr/share/fonts/truetype/DejaVuSerif-Bold.ttf	False
+DejaVu Serif	/usr/share/fonts/truetype/DejaVuSerif-BoldItalic.ttf	False
+DejaVu Serif	/usr/share/fonts/truetype/DejaVuSerif-Italic.ttf	False
+DejaVu Serif	/usr/share/fonts/truetype/DejaVuSerif.ttf	False
+DejaVu Serif	/usr/share/fonts/truetype/DejaVuSerifCondensed-Bold.ttf	False
+DejaVu Serif	/usr/share/fonts/truetype/DejaVuSerifCondensed-BoldItalic.ttf	False
+DejaVu Serif	/usr/share/fonts/truetype/DejaVuSerifCondensed-Italic.ttf	False
+DejaVu Serif	/usr/share/fonts/truetype/DejaVuSerifCondensed.ttf	False
+Font Awesome 7 Brands	/usr/share/fonts/truetype/Font Awesome 7 Brands-Regular-400.otf	False
+Font Awesome 7 Free	/usr/share/fonts/truetype/Font Awesome 7 Free-Regular-400.otf	False
+Font Awesome 7 Free	/usr/share/fonts/truetype/Font Awesome 7 Free-Solid-900.otf	False
+Liberation Mono	/usr/share/fonts/truetype/LiberationMono-Bold.ttf	False
+Liberation Mono	/usr/share/fonts/truetype/LiberationMono-BoldItalic.ttf	False
+Liberation Mono	/usr/share/fonts/truetype/LiberationMono-Italic.ttf	False
+Liberation Mono	/usr/share/fonts/truetype/LiberationMono-Regular.ttf	False
+Liberation Sans	/usr/share/fonts/truetype/LiberationSans-Bold.ttf	False
+Liberation Sans	/usr/share/fonts/truetype/LiberationSans-BoldItalic.ttf	False
+Liberation Sans	/usr/share/fonts/truetype/LiberationSans-Italic.ttf	False
+Liberation Sans	/usr/share/fonts/truetype/LiberationSans-Regular.ttf	False
+Liberation Serif	/usr/share/fonts/truetype/LiberationSerif-Bold.ttf	False
+Liberation Serif	/usr/share/fonts/truetype/LiberationSerif-BoldItalic.ttf	False
+Liberation Serif	/usr/share/fonts/truetype/LiberationSerif-Italic.ttf	False
+Liberation Serif	/usr/share/fonts/truetype/LiberationSerif-Regular.ttf	False
+Noto Color Emoji	/usr/share/fonts/truetype/NotoColorEmoji.ttf	True
+Noto Sans	/usr/share/fonts/truetype/NotoSans-Black.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-BlackItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-Bold.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-BoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-Condensed.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedBlack.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedBlackItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedBold.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedExtraBold.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedExtraBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedExtraLight.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedExtraLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedLight.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedMedium.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedMediumItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedSemiBold.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedSemiBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedThin.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-CondensedThinItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraBold.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensed.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedBlack.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedBlackItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedBold.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedExtraBold.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedExtraBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedExtraLight.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedExtraLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedLight.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedMedium.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedMediumItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedSemiBold.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedSemiBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedThin.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraCondensedThinItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraLight.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ExtraLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-Italic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-Light.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-LightItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-Medium.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-MediumItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-Regular.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiBold.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensed.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedBlack.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedBlackItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedBold.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedExtraBold.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedExtraBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedExtraLight.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedExtraLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedLight.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedLightItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedMedium.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedMediumItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedSemiBold.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedSemiBoldItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedThin.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-SemiCondensedThinItalic.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-Thin.ttf	False
+Noto Sans	/usr/share/fonts/truetype/NotoSans-ThinItalic.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-Black.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-Bold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-Condensed.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-CondensedBlack.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-CondensedBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-CondensedExtraBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-CondensedExtraLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-CondensedLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-CondensedMedium.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-CondensedSemiBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-CondensedThin.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-ExtraBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-ExtraCondensed.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-ExtraCondensedBlack.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-ExtraCondensedBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-ExtraCondensedExtraBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-ExtraCondensedExtraLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-ExtraCondensedLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-ExtraCondensedMedium.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-ExtraCondensedSemiBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-ExtraCondensedThin.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-ExtraLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-Light.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-Medium.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-Regular.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-SemiBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-SemiCondensed.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-SemiCondensedBlack.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-SemiCondensedBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-SemiCondensedExtraBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-SemiCondensedExtraLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-SemiCondensedLight.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-SemiCondensedMedium.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-SemiCondensedSemiBold.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-SemiCondensedThin.ttf	False
+Noto Sans Arabic	/usr/share/fonts/truetype/NotoSansArabic-Thin.ttf	False
+Source Sans Pro	/usr/share/fonts/truetype/SourceSansPro-Black.otf	False
+Source Sans Pro	/usr/share/fonts/truetype/SourceSansPro-BlackIt.otf	False
+Source Sans Pro	/usr/share/fonts/truetype/SourceSansPro-Bold.otf	False
+Source Sans Pro	/usr/share/fonts/truetype/SourceSansPro-BoldIt.otf	False
+Source Sans Pro	/usr/share/fonts/truetype/SourceSansPro-ExtraLight.otf	False
+Source Sans Pro	/usr/share/fonts/truetype/SourceSansPro-ExtraLightIt.otf	False
+Source Sans Pro	/usr/share/fonts/truetype/SourceSansPro-It.otf	False
+Source Sans Pro	/usr/share/fonts/truetype/SourceSansPro-Light.otf	False
+Source Sans Pro	/usr/share/fonts/truetype/SourceSansPro-LightIt.otf	False
+Source Sans Pro	/usr/share/fonts/truetype/SourceSansPro-Regular.otf	False
+Source Sans Pro	/usr/share/fonts/truetype/SourceSansPro-Semibold.otf	False
+Source Sans Pro	/usr/share/fonts/truetype/SourceSansPro-SemiboldIt.otf	False

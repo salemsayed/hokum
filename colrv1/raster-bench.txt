@@ -1,0 +1,4 @@
+test text::colr::tests::bench_against_bitmaps ... BENCH ppem=20 cbdt_us(q1,med,q3)=(208.9170625, 209.73925, 209.91456250000002) colrv1_us(q1,med,q3)=(118.137625, 118.4525, 118.688625)
+BENCH ppem=32 cbdt_us(q1,med,q3)=(240.114875, 240.28324999999998, 241.07356249999998) colrv1_us(q1,med,q3)=(162.7229375, 163.2151875, 163.68599999999998)
+BENCH ppem=64 cbdt_us(q1,med,q3)=(330.5436875, 330.78225, 331.28756250000004) colrv1_us(q1,med,q3)=(312.6131875, 312.85362499999997, 313.14856249999997)
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 1408 filtered out; finished in 0.91s

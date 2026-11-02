@@ -1,0 +1,8 @@
+DejaVuSans.ttf: "DejaVu Sans" "Regular"
+DejaVuSans-Bold.ttf: "DejaVu Sans" "Bold"
+DejaVuSans-Oblique.ttf: "DejaVu Sans" "Oblique"
+DejaVuSans-BoldOblique.ttf: "DejaVu Sans" "Bold Oblique"
+Noto-COLRv1.ttf: "Noto Color Emoji" "Regular"
+NotoSans-Regular.ttf: "Noto Sans" "Regular"
+NotoSansArabic-Regular.ttf: "Noto Sans Arabic" "Regular"
+LiberationSans-Regular.ttf: "Liberation Sans" "Regular"

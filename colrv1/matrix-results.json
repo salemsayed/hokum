@@ -1,0 +1,37 @@
+{
+  "arch": {
+    "emoji_colrv1_vs_branch_changed_pixels": 0,
+    "emoji_colrv1_vs_branch_unmasked_changed_pixels": 222,
+    "stock_colrv1_vs_dev_changed_pixels": 0,
+    "stock_colrv1_vs_dev_unmasked_changed_pixels": 666,
+    "stock_colrv1_vs_branch_changed_pixels": 0
+  },
+  "ubuntu": {
+    "emoji_colrv1_vs_branch_changed_pixels": 0,
+    "emoji_colrv1_vs_branch_unmasked_changed_pixels": 0,
+    "stock_colrv1_vs_dev_changed_pixels": 0,
+    "stock_colrv1_vs_dev_unmasked_changed_pixels": 0,
+    "stock_colrv1_vs_branch_changed_pixels": 0
+  },
+  "opensuse": {
+    "emoji_colrv1_vs_branch_changed_pixels": 0,
+    "emoji_colrv1_vs_branch_unmasked_changed_pixels": 0,
+    "stock_colrv1_vs_dev_changed_pixels": 0,
+    "stock_colrv1_vs_dev_unmasked_changed_pixels": 678,
+    "stock_colrv1_vs_branch_changed_pixels": 0
+  },
+  "fedora": {
+    "emoji_colrv1_vs_branch_changed_pixels": 44784,
+    "emoji_colrv1_vs_branch_unmasked_changed_pixels": 48032,
+    "stock_colrv1_vs_dev_changed_pixels": 0,
+    "stock_colrv1_vs_dev_unmasked_changed_pixels": 0,
+    "stock_colrv1_vs_branch_changed_pixels": 0
+  },
+  "debian": {
+    "emoji_colrv1_vs_branch_changed_pixels": 0,
+    "emoji_colrv1_vs_branch_unmasked_changed_pixels": 0,
+    "stock_colrv1_vs_dev_changed_pixels": 0,
+    "stock_colrv1_vs_dev_unmasked_changed_pixels": 0,
+    "stock_colrv1_vs_branch_changed_pixels": 0
+  }
+}

@@ -1,0 +1,4 @@
+FROM hokum-colrv1/dejavu
+RUN rustup component add clippy rustfmt
+RUN apt-get update && apt-get install -y --no-install-recommends libpipewire-0.3-modules pipewire-bin && rm -rf /var/lib/apt/lists/*
+ENV RUST_TEST_THREADS=2
